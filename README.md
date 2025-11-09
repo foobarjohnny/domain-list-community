@@ -1,4 +1,4 @@
-# Domain list community
+# Domain list community (maybe bug fix version)
 
 This project manages a list of domains, to be used as geosites for routing purpose in Project V.
 
