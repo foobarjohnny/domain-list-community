@@ -4,16 +4,16 @@ include:trackernetwork
 
 # Android Emulator
 bluestacks.com
-lsplayer.com @cn
-yeshen.com @cn
+lsplayer.com @maybe_can_be_accessed_directly_inside_cn
+yeshen.com @maybe_can_be_accessed_directly_inside_cn
 
 # Arknights
 maa.plus
 prts.plus
 
 # KanColle
-heavenlywind.cc @cn
+heavenlywind.cc @maybe_can_be_accessed_directly_inside_cn
 poi.moe
 
 
-steampp.net @cn
+steampp.net @maybe_can_be_accessed_directly_inside_cn

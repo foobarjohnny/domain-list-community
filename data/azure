@@ -1,32 +1,32 @@
 # All .azure domains
 azure
 
-21vbc.com @cn
-21vbluecloud.com @cn
-21vbluecloud.net @cn
-aadrm.cn @cn
+21vbc.com @maybe_can_be_accessed_directly_inside_cn
+21vbluecloud.com @maybe_can_be_accessed_directly_inside_cn
+21vbluecloud.net @maybe_can_be_accessed_directly_inside_cn
+aadrm.cn @maybe_can_be_accessed_directly_inside_cn
 aadrm.com
-aggresmart.com @cn
-apihub-internal.cn @cn
-appserviceenvironment.cn @cn
-azcrmc-test.cn @cn
-azcrmc.cn @cn
-azk8s.cn @cn
-aznbcontent.cn @cn
-aztask.cn @cn
-azure-api.cn @cn
-azure-apihub.cn @cn
-azure-automation.cn @cn
-azure-connectedvehicles-stage.cn @cn
-azure-connectedvehicles.cn @cn
+aggresmart.com @maybe_can_be_accessed_directly_inside_cn
+apihub-internal.cn @maybe_can_be_accessed_directly_inside_cn
+appserviceenvironment.cn @maybe_can_be_accessed_directly_inside_cn
+azcrmc-test.cn @maybe_can_be_accessed_directly_inside_cn
+azcrmc.cn @maybe_can_be_accessed_directly_inside_cn
+azk8s.cn @maybe_can_be_accessed_directly_inside_cn
+aznbcontent.cn @maybe_can_be_accessed_directly_inside_cn
+aztask.cn @maybe_can_be_accessed_directly_inside_cn
+azure-api.cn @maybe_can_be_accessed_directly_inside_cn
+azure-apihub.cn @maybe_can_be_accessed_directly_inside_cn
+azure-automation.cn @maybe_can_be_accessed_directly_inside_cn
+azure-connectedvehicles-stage.cn @maybe_can_be_accessed_directly_inside_cn
+azure-connectedvehicles.cn @maybe_can_be_accessed_directly_inside_cn
 azure-devices-int.net
-azure-devices-provisioning.cn @cn
-azure-devices.cn @cn
+azure-devices-provisioning.cn @maybe_can_be_accessed_directly_inside_cn
+azure-devices.cn @maybe_can_be_accessed_directly_inside_cn
 azure-devices.net
 azure-mobile.net
 azure-sphere.com
 azure-test.net
-azure.cn @cn
+azure.cn @maybe_can_be_accessed_directly_inside_cn
 azure.com
 azure.net
 azurecomcdn.net
@@ -36,8 +36,8 @@ azurecosmos.net
 azurecosmosdb.com
 azurecosmosdb.info
 azurecosmosdb.net
-azurecr-test.cn @cn
-azurecr.cn @cn
+azurecr-test.cn @maybe_can_be_accessed_directly_inside_cn
+azurecr.cn @maybe_can_be_accessed_directly_inside_cn
 azuredatabricks.net
 azuredevopslaunch.com
 azuredigitaltwin.com
@@ -48,106 +48,106 @@ azuredns-prd.org
 azureedge-test.net
 azureedge.net
 azurefd.net
-azurehdinsight.cn @cn
+azurehdinsight.cn @maybe_can_be_accessed_directly_inside_cn
 azureiotcentral.com
 azureiotsolutions.com
-azureiotsuite.cn @cn
+azureiotsuite.cn @maybe_can_be_accessed_directly_inside_cn
 azureiotsuite.com
-azuremresolver.cn @cn
+azuremresolver.cn @maybe_can_be_accessed_directly_inside_cn
 azureplanetscale.info
 azureplanetscale.net
-azureprivatedns.cn @cn
-azurerms.cn @cn
-azuresandbox.cn @cn
+azureprivatedns.cn @maybe_can_be_accessed_directly_inside_cn
+azurerms.cn @maybe_can_be_accessed_directly_inside_cn
+azuresandbox.cn @maybe_can_be_accessed_directly_inside_cn
 azureserviceprofiler.com
 azuresmartspaces.net
 azurestackvalidation.com
 azurewebsites.net
-b2clogin.cn @cn
-b3itech.cn @cn
-blueaggrestore.com @cn
-bluecloudprod.com @cn
+b2clogin.cn @maybe_can_be_accessed_directly_inside_cn
+b3itech.cn @maybe_can_be_accessed_directly_inside_cn
+blueaggrestore.com @maybe_can_be_accessed_directly_inside_cn
+bluecloudprod.com @maybe_can_be_accessed_directly_inside_cn
 botframework.com
-cegid-cloud.cn @cn
-chinacloud-mobile.cn @cn
-chinacloudapi.cn @cn
-chinacloudapp.cn @cn
-chinacloudsites.cn @cn
+cegid-cloud.cn @maybe_can_be_accessed_directly_inside_cn
+chinacloud-mobile.cn @maybe_can_be_accessed_directly_inside_cn
+chinacloudapi.cn @maybe_can_be_accessed_directly_inside_cn
+chinacloudapp.cn @maybe_can_be_accessed_directly_inside_cn
+chinacloudsites.cn @maybe_can_be_accessed_directly_inside_cn
 cosmosdb.info
 cosmosdb.net
 devopsms.com
 gotcosmos.com
-hdinsightservices.cn @cn
+hdinsightservices.cn @maybe_can_be_accessed_directly_inside_cn
 management-azure-devices-int.net
-management-azure-devices-provisioning.cn @cn
-management-azure-devices.cn @cn
+management-azure-devices-provisioning.cn @maybe_can_be_accessed_directly_inside_cn
+management-azure-devices.cn @maybe_can_be_accessed_directly_inside_cn
 management-azure-devices.net
-mcchcdn.com @cn
-mgmt-azure-api.cn @cn
+mcchcdn.com @maybe_can_be_accessed_directly_inside_cn
+mgmt-azure-api.cn @maybe_can_be_accessed_directly_inside_cn
 microsoftazuread-sso.com
 microsoftazuresponsorships.com
-microsoftazurestatus.cn @cn
+microsoftazurestatus.cn @maybe_can_be_accessed_directly_inside_cn
 microsofteca.com
 microsoftiotcentral.com
-microsoftmetrics.cn @cn
-mncmsidlab1.cn @cn
-msappproxy.cn @cn
-mschcdn.com @cn
-msftcloudes.cn @cn
-msidentity.cn @cn
-msidlabpbmc.cn @cn
+microsoftmetrics.cn @maybe_can_be_accessed_directly_inside_cn
+mncmsidlab1.cn @maybe_can_be_accessed_directly_inside_cn
+msappproxy.cn @maybe_can_be_accessed_directly_inside_cn
+mschcdn.com @maybe_can_be_accessed_directly_inside_cn
+msftcloudes.cn @maybe_can_be_accessed_directly_inside_cn
+msidentity.cn @maybe_can_be_accessed_directly_inside_cn
+msidlabpbmc.cn @maybe_can_be_accessed_directly_inside_cn
 msn.net
 playfab.com
 playfabapi.com
 serverlesslibrary.net
-trafficmanager.cn @cn
+trafficmanager.cn @maybe_can_be_accessed_directly_inside_cn
 trafficmanager.net
-trustcenter.cn @cn
+trustcenter.cn @maybe_can_be_accessed_directly_inside_cn
 tryfunctions.com
-unity3dcloud.cn @cn
-windowsazure.cn @cn
+unity3dcloud.cn @maybe_can_be_accessed_directly_inside_cn
+windowsazure.cn @maybe_can_be_accessed_directly_inside_cn
 windowsazure.com
-windowsazurestatus.cn @cn
+windowsazurestatus.cn @maybe_can_be_accessed_directly_inside_cn
 
-# regexp:.+\.azchcdn[a-s]\.com$ @cn
-azchcdna.com @cn
-azchcdnb.com @cn
-azchcdnc.com @cn
-azchcdnd.com @cn
-azchcdne.com @cn
-azchcdnf.com @cn
-azchcdng.com @cn
-azchcdnh.com @cn
-azchcdni.com @cn
-azchcdnj.com @cn
-azchcdnk.com @cn
-azchcdnl.com @cn
-azchcdnm.com @cn
-azchcdnn.com @cn
-azchcdno.com @cn
-azchcdnp.com @cn
-azchcdnq.com @cn
-azchcdnr.com @cn
-azchcdns.com @cn
+# regexp:.+\.azchcdn[a-s]\.com$ @maybe_can_be_accessed_directly_inside_cn
+azchcdna.com @maybe_can_be_accessed_directly_inside_cn
+azchcdnb.com @maybe_can_be_accessed_directly_inside_cn
+azchcdnc.com @maybe_can_be_accessed_directly_inside_cn
+azchcdnd.com @maybe_can_be_accessed_directly_inside_cn
+azchcdne.com @maybe_can_be_accessed_directly_inside_cn
+azchcdnf.com @maybe_can_be_accessed_directly_inside_cn
+azchcdng.com @maybe_can_be_accessed_directly_inside_cn
+azchcdnh.com @maybe_can_be_accessed_directly_inside_cn
+azchcdni.com @maybe_can_be_accessed_directly_inside_cn
+azchcdnj.com @maybe_can_be_accessed_directly_inside_cn
+azchcdnk.com @maybe_can_be_accessed_directly_inside_cn
+azchcdnl.com @maybe_can_be_accessed_directly_inside_cn
+azchcdnm.com @maybe_can_be_accessed_directly_inside_cn
+azchcdnn.com @maybe_can_be_accessed_directly_inside_cn
+azchcdno.com @maybe_can_be_accessed_directly_inside_cn
+azchcdnp.com @maybe_can_be_accessed_directly_inside_cn
+azchcdnq.com @maybe_can_be_accessed_directly_inside_cn
+azchcdnr.com @maybe_can_be_accessed_directly_inside_cn
+azchcdns.com @maybe_can_be_accessed_directly_inside_cn
 
 full:azure.microsoft.com
 full:azuremarketplace.microsoft.com
 
 # Azure DNS
-azure-dns.cn @cn
+azure-dns.cn @maybe_can_be_accessed_directly_inside_cn
 azure-dns.com
 azure-dns.info
 azure-dns.net
 azure-dns.org
 
-# regexp:.+\.azure-dns-([1-9]|10)\.cn$ @cn
-azure-dns-1.cn @cn
-azure-dns-2.cn @cn
-azure-dns-3.cn @cn
-azure-dns-4.cn @cn
-azure-dns-5.cn @cn
-azure-dns-6.cn @cn
-azure-dns-7.cn @cn
-azure-dns-8.cn @cn
-azure-dns-9.cn @cn
-azure-dns-10.cn @cn
+# regexp:.+\.azure-dns-([1-9]|10)\.cn$ @maybe_can_be_accessed_directly_inside_cn
+azure-dns-1.cn @maybe_can_be_accessed_directly_inside_cn
+azure-dns-2.cn @maybe_can_be_accessed_directly_inside_cn
+azure-dns-3.cn @maybe_can_be_accessed_directly_inside_cn
+azure-dns-4.cn @maybe_can_be_accessed_directly_inside_cn
+azure-dns-5.cn @maybe_can_be_accessed_directly_inside_cn
+azure-dns-6.cn @maybe_can_be_accessed_directly_inside_cn
+azure-dns-7.cn @maybe_can_be_accessed_directly_inside_cn
+azure-dns-8.cn @maybe_can_be_accessed_directly_inside_cn
+azure-dns-9.cn @maybe_can_be_accessed_directly_inside_cn
+azure-dns-10.cn @maybe_can_be_accessed_directly_inside_cn

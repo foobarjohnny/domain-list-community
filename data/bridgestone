@@ -13,7 +13,7 @@ bridgestone-korea.co.kr
 bridgestone-plt-eng.com
 bridgestone-tac-oman.com
 bridgestone.cl
-bridgestone.cn @cn
+bridgestone.cn @maybe_can_be_accessed_directly_inside_cn
 bridgestone.co.cr
 bridgestone.co.id
 bridgestone.co.in
@@ -22,7 +22,7 @@ bridgestone.co.th
 bridgestone.com
 bridgestone.com.ar
 bridgestone.com.br
-bridgestone.com.cn @cn
+bridgestone.com.cn @maybe_can_be_accessed_directly_inside_cn
 bridgestone.com.co
 bridgestone.com.mx
 bridgestone.com.sg
@@ -102,5 +102,5 @@ hibdontire.com
 wheelworks.net
 
 # Nokian Tyres
-nokiantyres.cn @cn
+nokiantyres.cn @maybe_can_be_accessed_directly_inside_cn
 nokiantyres.com

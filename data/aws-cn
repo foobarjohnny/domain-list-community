@@ -1,31 +1,31 @@
-a2z.org.cn @cn
-amazonaws.cn @cn
-amazonaws.com.cn @cn
-amazonwebservices.com.cn @cn
-amazonworkdocs.cn @cn
-amazonworkdocs.com.cn @cn
-asfiovnxocqpcry.com.cn @cn
-aws-border.cn @cn
-aws-icp-domain-manager.cn @cn
-awsapps.cn @cn
-awsapps.com.cn @cn
-awsstatic.cn @cn
-cloudfront-cn.net @cn
-cloudfront-test.cn @cn
-cloudfront.cn @cn
-nwcdcloud.cn @cn
-nwcdcloud.com.cn @cn
-nwcddns.cn @cn
-nwcdinfosec.cn @cn
-route53.cn @cn
-sagemaker.com.cn @cn
+a2z.org.cn @maybe_can_be_accessed_directly_inside_cn
+amazonaws.cn @maybe_can_be_accessed_directly_inside_cn
+amazonaws.com.cn @maybe_can_be_accessed_directly_inside_cn
+amazonwebservices.com.cn @maybe_can_be_accessed_directly_inside_cn
+amazonworkdocs.cn @maybe_can_be_accessed_directly_inside_cn
+amazonworkdocs.com.cn @maybe_can_be_accessed_directly_inside_cn
+asfiovnxocqpcry.com.cn @maybe_can_be_accessed_directly_inside_cn
+aws-border.cn @maybe_can_be_accessed_directly_inside_cn
+aws-icp-domain-manager.cn @maybe_can_be_accessed_directly_inside_cn
+awsapps.cn @maybe_can_be_accessed_directly_inside_cn
+awsapps.com.cn @maybe_can_be_accessed_directly_inside_cn
+awsstatic.cn @maybe_can_be_accessed_directly_inside_cn
+cloudfront-cn.net @maybe_can_be_accessed_directly_inside_cn
+cloudfront-test.cn @maybe_can_be_accessed_directly_inside_cn
+cloudfront.cn @maybe_can_be_accessed_directly_inside_cn
+nwcdcloud.cn @maybe_can_be_accessed_directly_inside_cn
+nwcdcloud.com.cn @maybe_can_be_accessed_directly_inside_cn
+nwcddns.cn @maybe_can_be_accessed_directly_inside_cn
+nwcdinfosec.cn @maybe_can_be_accessed_directly_inside_cn
+route53.cn @maybe_can_be_accessed_directly_inside_cn
+sagemaker.com.cn @maybe_can_be_accessed_directly_inside_cn
 
 # AWS CN DNS
-# regexp:.+\.amzndns-cn\.(biz|cn|com|net)$ @cn
-amzndns-cn.biz @cn
-amzndns-cn.cn @cn
-amzndns-cn.com @cn
-amzndns-cn.net @cn
+# regexp:.+\.amzndns-cn\.(biz|cn|com|net)$ @maybe_can_be_accessed_directly_inside_cn
+amzndns-cn.biz @maybe_can_be_accessed_directly_inside_cn
+amzndns-cn.cn @maybe_can_be_accessed_directly_inside_cn
+amzndns-cn.com @maybe_can_be_accessed_directly_inside_cn
+amzndns-cn.net @maybe_can_be_accessed_directly_inside_cn
 
-regexp:.+\.awsdns-cn-[0-9][0-9]\.(biz|com|net|top)$ @cn
-regexp:.+\.awsdns-cn-[0-9][a-e0-9]\.cn$ @cn
+regexp:.+\.awsdns-cn-[0-9][0-9]\.(biz|com|net|top)$ @maybe_can_be_accessed_directly_inside_cn
+regexp:.+\.awsdns-cn-[0-9][a-e0-9]\.cn$ @maybe_can_be_accessed_directly_inside_cn

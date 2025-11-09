@@ -10,9 +10,9 @@ mcdelivery.com.au
 mcdonalds.com.au
 
 # McDonald's China
-4008-517-517.cn @cn
-mcd.cn @cn
-mcdonalds.com.cn @cn
+4008-517-517.cn @maybe_can_be_accessed_directly_inside_cn
+mcd.cn @maybe_can_be_accessed_directly_inside_cn
+mcdonalds.com.cn @maybe_can_be_accessed_directly_inside_cn
 
 # McDonald's Hong Kong
 mcdonalds.hk

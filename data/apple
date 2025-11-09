@@ -20,7 +20,7 @@ apple.ca
 apple.ch
 apple.cl
 apple.cm
-apple.cn @cn
+apple.cn @maybe_can_be_accessed_directly_inside_cn
 apple.co
 apple.co.cr
 apple.co.hu
@@ -35,7 +35,7 @@ apple.com.af
 apple.com.au
 apple.com.bo
 apple.com.br
-apple.com.cn @cn
+apple.com.cn @maybe_can_be_accessed_directly_inside_cn
 apple.com.co
 apple.com.de
 apple.com.do
@@ -107,7 +107,7 @@ apple.xyz
 
 # Apple Store
 aplestore.com
-apple-store.cn @cn
+apple-store.cn @maybe_can_be_accessed_directly_inside_cn
 apple-store.net
 apple-store.wang
 applestor.com
@@ -115,7 +115,7 @@ applestore.bg
 applestore.cc
 applestore.ch
 applestore.cm
-applestore.cn @cn
+applestore.cn @maybe_can_be_accessed_directly_inside_cn
 applestore.co.hu
 applestore.co.jp
 applestore.co.ug
@@ -123,7 +123,7 @@ applestore.co.uk
 applestore.com
 applestore.com.au
 applestore.com.bn
-applestore.com.cn @cn
+applestore.com.cn @maybe_can_be_accessed_directly_inside_cn
 applestore.com.ee
 applestore.com.eg
 applestore.com.gr
@@ -155,8 +155,8 @@ onlineapplestore.com
 # App Store
 app-store.wang
 appe-store.com
-apple-appstore.cn @cn
-appleappstore.cn @cn
+apple-appstore.cn @maybe_can_be_accessed_directly_inside_cn
+appleappstore.cn @maybe_can_be_accessed_directly_inside_cn
 appleappstore.net
 appleappstore.tv
 appsto.re
@@ -164,7 +164,7 @@ appstore.co.id
 appstore.hk
 appstore.my
 appstore.ph
-appstoreapple.cn @cn
+appstoreapple.cn @maybe_can_be_accessed_directly_inside_cn
 asto.re
 tvappstore.net
 
@@ -222,7 +222,7 @@ fundaiphone5s.com
 hebiphone.com
 hf-iphone.com
 iphine.com
-iphone-8.com.cn @cn
+iphone-8.com.cn @maybe_can_be_accessed_directly_inside_cn
 iphone-cd.com
 iphone-cn.com
 iphone-sh.com
@@ -282,7 +282,7 @@ ipod.co.uk
 ipod.co.za
 ipod.com
 ipod.com.au
-ipod.com.cn @cn
+ipod.com.cn @maybe_can_be_accessed_directly_inside_cn
 ipod.com.fr
 ipod.com.hk
 ipod.com.sg
@@ -325,12 +325,12 @@ macbook.co
 macbook.hk
 macbook.tw
 macbook.wang
-macbookair.cn @cn
+macbookair.cn @maybe_can_be_accessed_directly_inside_cn
 macbookair.co.kr
 macbookair.co.uk
 macbookair.com
 macbookair.com.au
-macbookair.com.cn @cn
+macbookair.com.cn @maybe_can_be_accessed_directly_inside_cn
 macbookair.com.es
 macbookair.es
 macbookair.hk
@@ -390,15 +390,15 @@ applepay.info
 applepay.jp
 applepay.rs
 applepay.tv
-applepaycash.cn @cn
-applepaycash.com.cn @cn
+applepaycash.cn @maybe_can_be_accessed_directly_inside_cn
+applepaycash.com.cn @maybe_can_be_accessed_directly_inside_cn
 applepaycash.net
 applepaycash.tv
 applepaymerchantsupplies.info
 applepaysupplies.berlin
-applepaysupplies.cn @cn
+applepaysupplies.cn @maybe_can_be_accessed_directly_inside_cn
 applepaysupplies.com
-applepaysupplies.com.cn @cn
+applepaysupplies.com.cn @maybe_can_be_accessed_directly_inside_cn
 applepaysupplies.info
 applepaysupplies.net
 applepaysupplies.tv
@@ -457,8 +457,8 @@ myappleid.com
 appletv.com
 appletv.fr
 appletv.wang
-appletv4.cn @cn
-appletv4.com.cn @cn
+appletv4.cn @maybe_can_be_accessed_directly_inside_cn
+appletv4.com.cn @maybe_can_be_accessed_directly_inside_cn
 appletvapp.apple
 
 # Apple One
@@ -507,18 +507,18 @@ appla.com
 apple-darwin.com
 apple-darwin.net
 apple-darwin.org
-apple-dns.cn @cn
+apple-dns.cn @maybe_can_be_accessed_directly_inside_cn
 apple-dns.com
-apple-dns.com.cn @cn
+apple-dns.com.cn @maybe_can_be_accessed_directly_inside_cn
 apple-dns.net
 apple-enews.com
 apple-expo.com
 apple-expo.eu
 apple-hk.com
-apple-ibooks.cn @cn
+apple-ibooks.cn @maybe_can_be_accessed_directly_inside_cn
 apple-inc.net
 apple-livephotoskit.com
-apple-maps.cn @cn
+apple-maps.cn @maybe_can_be_accessed_directly_inside_cn
 apple-online.com
 apple-usa.net
 appleafrica.com
@@ -531,18 +531,18 @@ applecarbon.com
 applecard.tv
 applecentar.co.rs
 applecentar.rs
-applecenter.cn @cn
-applecenter.com.cn @cn
+applecenter.cn @maybe_can_be_accessed_directly_inside_cn
+applecenter.com.cn @maybe_can_be_accessed_directly_inside_cn
 applecentre.com.au
 applecentre.info
 appleclub.com.hk
 applecom.com
 applecomputer-imac.com
-applecomputer.cn @cn
+applecomputer.cn @maybe_can_be_accessed_directly_inside_cn
 applecomputer.co.in
 applecomputer.co.nz
 applecomputer.com
-applecomputer.com.cn @cn
+applecomputer.com.cn @maybe_can_be_accessed_directly_inside_cn
 applecomputer.com.hk
 applecomputer.com.tw
 applecomputer.hu
@@ -551,8 +551,8 @@ applecomputerimac.com
 applecomputerinc.info
 applecomputers.co.nz
 applecoronavirus.com
-appledns.cn @cn
-appledns.com.cn @cn
+appledns.cn @maybe_can_be_accessed_directly_inside_cn
+appledns.com.cn @maybe_can_be_accessed_directly_inside_cn
 appleexpo.eu
 appleexpo.info
 applefilmaker.com
@@ -584,7 +584,7 @@ applescreensavers.com
 applescript.info
 appleshare.info
 appleshop.co.uk
-applesiri.cn @cn
+applesiri.cn @maybe_can_be_accessed_directly_inside_cn
 applesurveys.com
 appletaiwan.com
 appletips.net
@@ -632,7 +632,7 @@ dvdstudiopro.net
 dvdstudiopro.org
 dvdstudiopro.us
 earpod.net
-ecgapp.com.cn @cn
+ecgapp.com.cn @maybe_can_be_accessed_directly_inside_cn
 ecgapp.net
 edu-research.org
 emac.co.in
@@ -642,14 +642,14 @@ eworld.com
 faceid99.com
 faceid99.net
 faceidglobal.com
-faceshift.cn @cn
+faceshift.cn @maybe_can_be_accessed_directly_inside_cn
 facetime.net
 finalcutpro.com
 find-apple.com
 firewire.cl
 firewire.eu
 geoport.com
-homepod.cn @cn
+homepod.cn @maybe_can_be_accessed_directly_inside_cn
 hopstop.tv
 ichat.co.in
 idvd.eu
@@ -659,7 +659,7 @@ ilife.eu
 ilife.gr
 ilife.wang
 imessage.tv
-insidear.cn @cn
+insidear.cn @maybe_can_be_accessed_directly_inside_cn
 insidemacintosh.com
 iosinthecar.com
 ipa-iphone.net
@@ -672,8 +672,8 @@ iwork.wang
 jetfuelapp.com
 jetfuelapps.com
 latticedata.com
-livephotos.cn @cn
-livephotos.com.cn @cn
+livephotos.cn @maybe_can_be_accessed_directly_inside_cn
+livephotos.com.cn @maybe_can_be_accessed_directly_inside_cn
 livephotos.tv
 lojaiphone.com.br
 mac-mini.com
@@ -732,15 +732,15 @@ www-sms-apple.com
 wwwapple.com
 wwwapple.net
 wwwlapple.com
-xn--czrs0t4phtr3a.cn @cn # 苹果商店.cn
-xn--fiqs8sxootzz.cn @cn # 苹果中国.cn
+xn--czrs0t4phtr3a.cn @maybe_can_be_accessed_directly_inside_cn # 苹果商店.cn
+xn--fiqs8sxootzz.cn @maybe_can_be_accessed_directly_inside_cn # 苹果中国.cn
 xn--fiqs8sxootzz.xn--hxt814e # 苹果中国.网店
 xn--gtvq61aiijy0b.xn--hxt814e # 苹果电脑.网店
 xn--gtvz22d.wang # 苹果.wang
 xn--gtvz22d.xn--hxt814e # 苹果.网店
 xn--hxtr4rozx.xn--czr694b # 苹果店.商标
 xn--kput3imi374g.xn--hxt814e # 苹果手机.网店
-xn--ohq11k7pl25iyo8a.cn @cn # 苹果专卖店.cn
+xn--ohq11k7pl25iyo8a.cn @maybe_can_be_accessed_directly_inside_cn # 苹果专卖店.cn
 xn--ruq8a011kt6y.xn--hxt814e # 苹果保修.网店
 
 full:apple.com.akadns.net
@@ -749,244 +749,244 @@ full:push-apple.com.akadns.net
 courier-push-apple.com.akadns.net
 
 # Domains and services below are available in China mainland
-# Use in config file like this: "geosite:apple@cn"
-full:amp-api-edge-lb-cn.itunes-apple.com.akadns.net @cn
-full:amp-api-edge-lb.itunes-apple.com.akadns.net @cn
-full:amp-api-edge.apps.apple.com @cn
-full:amp-api-search-edge.apps.apple.com @cn
-full:amp-api.apps.apple.com @cn
-full:amp-api.music.apple.com @cn
-full:aod.itunes.apple.com @cn
-full:api-edge.apps.apple.com @cn
-full:apptrailers.itunes.apple.com @cn
-full:auth.music.apple.com @cn
-full:bag.itunes.apple.com @cn
-full:bookkeeper.itunes.apple.com @cn
-full:client-api.itunes.apple.com @cn
-full:cma.itunes.apple.com @cn
-full:communities.apple.com @cn
-full:discussionschinese.apple.com @cn
-full:downloaddispatch.itunes.apple.com @cn
-full:fides-pol.apple.com @cn
-full:gspe11-2-cn-ssl.ls.apple.com @cn
-full:gspe12-cn-ssl.ls.apple.com @cn
-full:gspe85-cn-ssl.ls.apple.com @cn
-full:inappcheck-cn.itunes-apple.com.akadns.net @cn
-full:inappcheck-lb.itunes-apple.com.akadns.net @cn
-full:inappcheck.itunes.apple.com @cn
-full:init.gc-lb.apple.com.akadns.net @cn
-full:init.gc.apple.com @cn
-full:init.itunes.apple.com @cn
-full:iosapps.itunes.apple.com @cn
-full:js-cdn.music.apple.com @cn
-full:km.support.apple.com @cn
-full:maps.apple.com @cn
-full:misc-assets.itunes.apple.com @cn
-full:myapp.itunes.apple.com @cn
-full:np-edge.itunes.apple.com @cn
-full:osxapps.itunes.apple.com @cn
-full:pd-nk.itunes.apple.com @cn
-full:pd.itunes.apple.com @cn
-full:play.itunes.apple.com @cn
-full:play.music.apple.com @cn
-full:se-edge.itunes.apple.com @cn
-full:se2.itunes.apple.com @cn
-full:search.itunes.apple.com @cn
-full:sf-api-token-service.itunes.apple.com @cn
-full:sp.itunes.apple.com @cn
-full:streamingaudio.itunes.apple.com @cn
-full:su.itunes.apple.com @cn
-full:sync.itunes.apple.com @cn
-full:tf-feedback.itunes.apple.com @cn
-full:upp.itunes.apple.com @cn
-full:www.support.apple.com @cn
+# Use in config file like this: "geosite:apple@maybe_can_be_accessed_directly_inside_cn"
+full:amp-api-edge-lb-cn.itunes-apple.com.akadns.net @maybe_can_be_accessed_directly_inside_cn
+full:amp-api-edge-lb.itunes-apple.com.akadns.net @maybe_can_be_accessed_directly_inside_cn
+full:amp-api-edge.apps.apple.com @maybe_can_be_accessed_directly_inside_cn
+full:amp-api-search-edge.apps.apple.com @maybe_can_be_accessed_directly_inside_cn
+full:amp-api.apps.apple.com @maybe_can_be_accessed_directly_inside_cn
+full:amp-api.music.apple.com @maybe_can_be_accessed_directly_inside_cn
+full:aod.itunes.apple.com @maybe_can_be_accessed_directly_inside_cn
+full:api-edge.apps.apple.com @maybe_can_be_accessed_directly_inside_cn
+full:apptrailers.itunes.apple.com @maybe_can_be_accessed_directly_inside_cn
+full:auth.music.apple.com @maybe_can_be_accessed_directly_inside_cn
+full:bag.itunes.apple.com @maybe_can_be_accessed_directly_inside_cn
+full:bookkeeper.itunes.apple.com @maybe_can_be_accessed_directly_inside_cn
+full:client-api.itunes.apple.com @maybe_can_be_accessed_directly_inside_cn
+full:cma.itunes.apple.com @maybe_can_be_accessed_directly_inside_cn
+full:communities.apple.com @maybe_can_be_accessed_directly_inside_cn
+full:discussionschinese.apple.com @maybe_can_be_accessed_directly_inside_cn
+full:downloaddispatch.itunes.apple.com @maybe_can_be_accessed_directly_inside_cn
+full:fides-pol.apple.com @maybe_can_be_accessed_directly_inside_cn
+full:gspe11-2-cn-ssl.ls.apple.com @maybe_can_be_accessed_directly_inside_cn
+full:gspe12-cn-ssl.ls.apple.com @maybe_can_be_accessed_directly_inside_cn
+full:gspe85-cn-ssl.ls.apple.com @maybe_can_be_accessed_directly_inside_cn
+full:inappcheck-cn.itunes-apple.com.akadns.net @maybe_can_be_accessed_directly_inside_cn
+full:inappcheck-lb.itunes-apple.com.akadns.net @maybe_can_be_accessed_directly_inside_cn
+full:inappcheck.itunes.apple.com @maybe_can_be_accessed_directly_inside_cn
+full:init.gc-lb.apple.com.akadns.net @maybe_can_be_accessed_directly_inside_cn
+full:init.gc.apple.com @maybe_can_be_accessed_directly_inside_cn
+full:init.itunes.apple.com @maybe_can_be_accessed_directly_inside_cn
+full:iosapps.itunes.apple.com @maybe_can_be_accessed_directly_inside_cn
+full:js-cdn.music.apple.com @maybe_can_be_accessed_directly_inside_cn
+full:km.support.apple.com @maybe_can_be_accessed_directly_inside_cn
+full:maps.apple.com @maybe_can_be_accessed_directly_inside_cn
+full:misc-assets.itunes.apple.com @maybe_can_be_accessed_directly_inside_cn
+full:myapp.itunes.apple.com @maybe_can_be_accessed_directly_inside_cn
+full:np-edge.itunes.apple.com @maybe_can_be_accessed_directly_inside_cn
+full:osxapps.itunes.apple.com @maybe_can_be_accessed_directly_inside_cn
+full:pd-nk.itunes.apple.com @maybe_can_be_accessed_directly_inside_cn
+full:pd.itunes.apple.com @maybe_can_be_accessed_directly_inside_cn
+full:play.itunes.apple.com @maybe_can_be_accessed_directly_inside_cn
+full:play.music.apple.com @maybe_can_be_accessed_directly_inside_cn
+full:se-edge.itunes.apple.com @maybe_can_be_accessed_directly_inside_cn
+full:se2.itunes.apple.com @maybe_can_be_accessed_directly_inside_cn
+full:search.itunes.apple.com @maybe_can_be_accessed_directly_inside_cn
+full:sf-api-token-service.itunes.apple.com @maybe_can_be_accessed_directly_inside_cn
+full:sp.itunes.apple.com @maybe_can_be_accessed_directly_inside_cn
+full:streamingaudio.itunes.apple.com @maybe_can_be_accessed_directly_inside_cn
+full:su.itunes.apple.com @maybe_can_be_accessed_directly_inside_cn
+full:sync.itunes.apple.com @maybe_can_be_accessed_directly_inside_cn
+full:tf-feedback.itunes.apple.com @maybe_can_be_accessed_directly_inside_cn
+full:upp.itunes.apple.com @maybe_can_be_accessed_directly_inside_cn
+full:www.support.apple.com @maybe_can_be_accessed_directly_inside_cn
 
-# regexp:^a[1-5]\.mzstatic\.com$ @cn
-full:a1.mzstatic.com @cn
-full:a2.mzstatic.com @cn
-full:a3.mzstatic.com @cn
-full:a4.mzstatic.com @cn
-full:a5.mzstatic.com @cn
+# regexp:^a[1-5]\.mzstatic\.com$ @maybe_can_be_accessed_directly_inside_cn
+full:a1.mzstatic.com @maybe_can_be_accessed_directly_inside_cn
+full:a2.mzstatic.com @maybe_can_be_accessed_directly_inside_cn
+full:a3.mzstatic.com @maybe_can_be_accessed_directly_inside_cn
+full:a4.mzstatic.com @maybe_can_be_accessed_directly_inside_cn
+full:a5.mzstatic.com @maybe_can_be_accessed_directly_inside_cn
 
-# regexp:^cdn(-cn)?[1-4]?\.apple-mapkit\.com$ @cn
-full:cdn.apple-mapkit.com @cn
-full:cdn1.apple-mapkit.com @cn
-full:cdn2.apple-mapkit.com @cn
-full:cdn3.apple-mapkit.com @cn
-full:cdn4.apple-mapkit.com @cn
-full:cdn-cn.apple-mapkit.com @cn
-full:cdn-cn1.apple-mapkit.com @cn
-full:cdn-cn2.apple-mapkit.com @cn
-full:cdn-cn3.apple-mapkit.com @cn
-full:cdn-cn4.apple-mapkit.com @cn
+# regexp:^cdn(-cn)?[1-4]?\.apple-mapkit\.com$ @maybe_can_be_accessed_directly_inside_cn
+full:cdn.apple-mapkit.com @maybe_can_be_accessed_directly_inside_cn
+full:cdn1.apple-mapkit.com @maybe_can_be_accessed_directly_inside_cn
+full:cdn2.apple-mapkit.com @maybe_can_be_accessed_directly_inside_cn
+full:cdn3.apple-mapkit.com @maybe_can_be_accessed_directly_inside_cn
+full:cdn4.apple-mapkit.com @maybe_can_be_accessed_directly_inside_cn
+full:cdn-cn.apple-mapkit.com @maybe_can_be_accessed_directly_inside_cn
+full:cdn-cn1.apple-mapkit.com @maybe_can_be_accessed_directly_inside_cn
+full:cdn-cn2.apple-mapkit.com @maybe_can_be_accessed_directly_inside_cn
+full:cdn-cn3.apple-mapkit.com @maybe_can_be_accessed_directly_inside_cn
+full:cdn-cn4.apple-mapkit.com @maybe_can_be_accessed_directly_inside_cn
 
-# regexp:^cl[1-5]-cdn\.origin-apple\.com\.akadns\.net$ @cn
-full:cl1-cdn.origin-apple.com.akadns.net @cn
-full:cl2-cdn.origin-apple.com.akadns.net @cn
-full:cl3-cdn.origin-apple.com.akadns.net @cn
-full:cl4-cdn.origin-apple.com.akadns.net @cn
-full:cl5-cdn.origin-apple.com.akadns.net @cn
+# regexp:^cl[1-5]-cdn\.origin-apple\.com\.akadns\.net$ @maybe_can_be_accessed_directly_inside_cn
+full:cl1-cdn.origin-apple.com.akadns.net @maybe_can_be_accessed_directly_inside_cn
+full:cl2-cdn.origin-apple.com.akadns.net @maybe_can_be_accessed_directly_inside_cn
+full:cl3-cdn.origin-apple.com.akadns.net @maybe_can_be_accessed_directly_inside_cn
+full:cl4-cdn.origin-apple.com.akadns.net @maybe_can_be_accessed_directly_inside_cn
+full:cl5-cdn.origin-apple.com.akadns.net @maybe_can_be_accessed_directly_inside_cn
 
-# regexp:^cl[1-5]\.apple\.com$ @cn
-full:cl1.apple.com @cn
-full:cl2.apple.com @cn
-full:cl3.apple.com @cn
-full:cl4.apple.com @cn
-full:cl5.apple.com @cn
+# regexp:^cl[1-5]\.apple\.com$ @maybe_can_be_accessed_directly_inside_cn
+full:cl1.apple.com @maybe_can_be_accessed_directly_inside_cn
+full:cl2.apple.com @maybe_can_be_accessed_directly_inside_cn
+full:cl3.apple.com @maybe_can_be_accessed_directly_inside_cn
+full:cl4.apple.com @maybe_can_be_accessed_directly_inside_cn
+full:cl5.apple.com @maybe_can_be_accessed_directly_inside_cn
 
-# regexp:^is[1-5](-ssl)?\.mzstatic\.com$ @cn
-full:is1.mzstatic.com @cn
-full:is1-ssl.mzstatic.com @cn
-full:is2.mzstatic.com @cn
-full:is2-ssl.mzstatic.com @cn
-full:is3.mzstatic.com @cn
-full:is3-ssl.mzstatic.com @cn
-full:is4.mzstatic.com @cn
-full:is4-ssl.mzstatic.com @cn
-full:is5.mzstatic.com @cn
-full:is5-ssl.mzstatic.com @cn
+# regexp:^is[1-5](-ssl)?\.mzstatic\.com$ @maybe_can_be_accessed_directly_inside_cn
+full:is1.mzstatic.com @maybe_can_be_accessed_directly_inside_cn
+full:is1-ssl.mzstatic.com @maybe_can_be_accessed_directly_inside_cn
+full:is2.mzstatic.com @maybe_can_be_accessed_directly_inside_cn
+full:is2-ssl.mzstatic.com @maybe_can_be_accessed_directly_inside_cn
+full:is3.mzstatic.com @maybe_can_be_accessed_directly_inside_cn
+full:is3-ssl.mzstatic.com @maybe_can_be_accessed_directly_inside_cn
+full:is4.mzstatic.com @maybe_can_be_accessed_directly_inside_cn
+full:is4-ssl.mzstatic.com @maybe_can_be_accessed_directly_inside_cn
+full:is5.mzstatic.com @maybe_can_be_accessed_directly_inside_cn
+full:is5-ssl.mzstatic.com @maybe_can_be_accessed_directly_inside_cn
 
-# regexp:^s[1-5]?\.mzstatic\.com$ @cn
-full:s.mzstatic.com @cn
-full:s1.mzstatic.com @cn
-full:s2.mzstatic.com @cn
-full:s3.mzstatic.com @cn
-full:s4.mzstatic.com @cn
-full:s5.mzstatic.com @cn
+# regexp:^s[1-5]?\.mzstatic\.com$ @maybe_can_be_accessed_directly_inside_cn
+full:s.mzstatic.com @maybe_can_be_accessed_directly_inside_cn
+full:s1.mzstatic.com @maybe_can_be_accessed_directly_inside_cn
+full:s2.mzstatic.com @maybe_can_be_accessed_directly_inside_cn
+full:s3.mzstatic.com @maybe_can_be_accessed_directly_inside_cn
+full:s4.mzstatic.com @maybe_can_be_accessed_directly_inside_cn
+full:s5.mzstatic.com @maybe_can_be_accessed_directly_inside_cn
 
 # The rules below are from https://github.com/felixonmars/dnsmasq-china-list/blob/master/apple.china.conf
 # Revision: 4d392cc0a822ac5626bb97fef3fe5e04e86b28b0
 # Duplicates removed
 # According to the consensus in #503, do not include the domain name apps.apple.com directly.
-# Use in config file like this: "geosite:apple@cn"
-full:adcdownload.apple.com @cn
-full:adcdownload.apple.com.akadns.net @cn
-full:amp-api-updates.apps.apple.com @cn
-full:amp-api.media.apple.com @cn
-full:app-site-association.cdn-apple.com @cn
-full:appldnld.apple.com @cn
-full:appldnld.g.aaplimg.com @cn
-full:appleid.cdn-apple.com @cn
-full:apps.mzstatic.com @cn
-full:bag-cdn.itunes-apple.com.akadns.net @cn
-full:cds-cdn.v.aaplimg.com @cn
-full:cds.apple.com @cn
-full:cds.apple.com.akadns.net @cn
-full:cdsassets.apple.com @cn
-full:certs.apple.com @cn
-full:cl2-cn.apple.com @cn
-full:cl4-cn.apple.com @cn
-full:clientflow.apple.com @cn
-full:clientflow.apple.com.akadns.net @cn
-full:cn-smp-paymentservices.apple.com @cn
-full:configuration.apple.com @cn
-full:configuration.apple.com.akadns.net @cn
-full:crl.apple.com @cn
-full:cstat.apple.com @cn
-full:cstat.cdn-apple.com @cn
-full:dd-cdn.origin-apple.com.akadns.net @cn
-full:dejavu.apple.com @cn
-full:devimages-cdn.apple.com @cn
-full:devstreaming-cdn.apple.com @cn
-full:download.developer.apple.com @cn
-full:experiments.apple.com @cn
-full:gs-loc-cn.apple.com @cn
-full:gs-loc.apple.com @cn
-full:gsp10-ssl-cn.ls.apple.com @cn
-full:gsp12-cn.ls.apple.com @cn
-full:gsp13-cn.ls.apple.com @cn
-full:gsp4-cn.ls.apple.com @cn
-full:gsp4-cn.ls.apple.com.edgekey.net.globalredir.akadns.net @cn
-full:gsp5-cn.ls.apple.com @cn
-full:gsp85-cn-ssl.ls.apple.com @cn
-full:gspe19-2-cn-ssl.ls-apple.com.akadns.net @cn
-full:gspe19-2-cn-ssl.ls.apple.com @cn
-full:gspe19-cn-ssl.ls.apple.com @cn
-full:gspe19-cn.ls-apple.com.akadns.net @cn
-full:gspe19-cn.ls.apple.com @cn
-full:gspe21-ssl.ls.apple.com @cn
-full:gspe35-ssl.ls.apple.com @cn
-full:gspe79-cn-ssl.ls.apple.com @cn
-full:guzzoni-apple-com.v.aaplimg.com @cn
-full:guzzoni.apple.com @cn
-full:guzzoni.smoot.apple.com @cn
-full:icloud-cdn.icloud.com.akadns.net @cn
-full:icloud.cdn-apple.com @cn
-full:images.apple.com.edgekey.net.globalredir.akadns.net @cn
-full:init-kt.apple.com @cn
-full:init-p01md-lb.push-apple.com.akadns.net @cn
-full:init-p01md.apple.com @cn
-full:init-p01st-lb.push-apple.com.akadns.net @cn
-full:init-p01st.push.apple.com @cn
-full:init-s01st-lb.push-apple.com.akadns.net @cn
-full:init-s01st.push.apple.com @cn
-full:init.ess.apple.com @cn
-full:iosapps.itunes.g.aaplimg.com @cn
-full:ipcdn.apple.com @cn
-full:iphone-ld.apple.com @cn
-full:iphone-ld.origin-apple.com.akadns.net @cn
-full:is-ssl.mzstatic.com-cn-lb.itunes-apple.com.akadns.net @cn
-full:itunes-apple.com.akadns.net @cn
-full:itunes.apple.com @cn
-full:itunesconnect.apple.com @cn
-full:mesu-cdn.apple.com.akadns.net @cn
-full:mesu-china.apple.com.akadns.net @cn
-full:mesu.apple.com @cn
-full:ml.cdn-apple.com @cn
-full:music.apple.com @cn
-full:ocsp-lb.apple.com.akadns.net @cn
-full:ocsp.apple.com @cn
-full:ocsp2-lb.apple.com.akadns.net @cn
-full:ocsp2.apple.com @cn
-full:oscdn.apple.com @cn
-full:oscdn.origin-apple.com.akadns.net @cn
-full:osxapps.itunes.g.aaplimg.com @cn
-full:pancake.apple.com @cn
-full:pancake.cdn-apple.com.akadns.net @cn
-full:pba0.apple.com @cn
-full:probe.siri.apple.com @cn
-full:prod-support.apple-support.akadns.net @cn
-full:publicassets.cdn-apple.com @cn
-full:reserve-prime.apple.com @cn
-full:seed-sequoia.siri.apple.com @cn
-full:seed-swallow.siri.apple.com @cn
-full:seed.siri.apple.com @cn
-full:sequoia.apple.com @cn
-full:sh-pod2-smp-device.apple.com @cn
-full:shazam-insights.cdn-apple.com @cn
-full:smp-device-content.apple.com @cn
-full:static.gc.apple.com @cn
-full:stocks-sparkline-lb.apple.com.akadns.net @cn
-full:stocks-sparkline.apple.com @cn
-full:store.apple.com @cn
-full:store.apple.com.edgekey.net @cn
-full:store.apple.com.edgekey.net.globalredir.akadns.net @cn
-full:store.storeimages.apple.com.akadns.net @cn
-full:store.storeimages.cdn-apple.com @cn
-full:support-china.apple-support.akadns.net @cn
-full:support.apple.com @cn
-full:swallow-apple-com.v.aaplimg.com @cn
-full:swallow.apple.com @cn
-full:swcatalog-cdn.apple.com.akadns.net @cn
-full:swcatalog.apple.com @cn
-full:swcdn.apple.com @cn
-full:swcdn.g.aaplimg.com @cn
-full:swdist.apple.com @cn
-full:swdist.apple.com.akadns.net @cn
-full:swscan-cdn.apple.com.akadns.net @cn
-full:swscan.apple.com @cn
-full:sylvan.apple.com @cn
-full:tj-pod1-smp-device.apple.com @cn
-full:updates-http.cdn-apple.com @cn
-full:updates-http.cdn-apple.com.akadns.net @cn
-full:updates.cdn-apple.com @cn
-full:valid.apple.com @cn
-full:valid.origin-apple.com.akadns.net @cn
-full:weather-data.apple.com @cn
-full:weather-data.apple.com.akadns.net @cn
-full:weather-map.apple.com @cn
-full:weather-map2.apple.com @cn
-full:weatherkit.apple.com @cn
-full:www.apple.com @cn
-full:www.apple.com.edgekey.net.globalredir.akadns.net @cn
-full:xp.apple.com @cn
+# Use in config file like this: "geosite:apple@maybe_can_be_accessed_directly_inside_cn"
+full:adcdownload.apple.com @maybe_can_be_accessed_directly_inside_cn
+full:adcdownload.apple.com.akadns.net @maybe_can_be_accessed_directly_inside_cn
+full:amp-api-updates.apps.apple.com @maybe_can_be_accessed_directly_inside_cn
+full:amp-api.media.apple.com @maybe_can_be_accessed_directly_inside_cn
+full:app-site-association.cdn-apple.com @maybe_can_be_accessed_directly_inside_cn
+full:appldnld.apple.com @maybe_can_be_accessed_directly_inside_cn
+full:appldnld.g.aaplimg.com @maybe_can_be_accessed_directly_inside_cn
+full:appleid.cdn-apple.com @maybe_can_be_accessed_directly_inside_cn
+full:apps.mzstatic.com @maybe_can_be_accessed_directly_inside_cn
+full:bag-cdn.itunes-apple.com.akadns.net @maybe_can_be_accessed_directly_inside_cn
+full:cds-cdn.v.aaplimg.com @maybe_can_be_accessed_directly_inside_cn
+full:cds.apple.com @maybe_can_be_accessed_directly_inside_cn
+full:cds.apple.com.akadns.net @maybe_can_be_accessed_directly_inside_cn
+full:cdsassets.apple.com @maybe_can_be_accessed_directly_inside_cn
+full:certs.apple.com @maybe_can_be_accessed_directly_inside_cn
+full:cl2-cn.apple.com @maybe_can_be_accessed_directly_inside_cn
+full:cl4-cn.apple.com @maybe_can_be_accessed_directly_inside_cn
+full:clientflow.apple.com @maybe_can_be_accessed_directly_inside_cn
+full:clientflow.apple.com.akadns.net @maybe_can_be_accessed_directly_inside_cn
+full:cn-smp-paymentservices.apple.com @maybe_can_be_accessed_directly_inside_cn
+full:configuration.apple.com @maybe_can_be_accessed_directly_inside_cn
+full:configuration.apple.com.akadns.net @maybe_can_be_accessed_directly_inside_cn
+full:crl.apple.com @maybe_can_be_accessed_directly_inside_cn
+full:cstat.apple.com @maybe_can_be_accessed_directly_inside_cn
+full:cstat.cdn-apple.com @maybe_can_be_accessed_directly_inside_cn
+full:dd-cdn.origin-apple.com.akadns.net @maybe_can_be_accessed_directly_inside_cn
+full:dejavu.apple.com @maybe_can_be_accessed_directly_inside_cn
+full:devimages-cdn.apple.com @maybe_can_be_accessed_directly_inside_cn
+full:devstreaming-cdn.apple.com @maybe_can_be_accessed_directly_inside_cn
+full:download.developer.apple.com @maybe_can_be_accessed_directly_inside_cn
+full:experiments.apple.com @maybe_can_be_accessed_directly_inside_cn
+full:gs-loc-cn.apple.com @maybe_can_be_accessed_directly_inside_cn
+full:gs-loc.apple.com @maybe_can_be_accessed_directly_inside_cn
+full:gsp10-ssl-cn.ls.apple.com @maybe_can_be_accessed_directly_inside_cn
+full:gsp12-cn.ls.apple.com @maybe_can_be_accessed_directly_inside_cn
+full:gsp13-cn.ls.apple.com @maybe_can_be_accessed_directly_inside_cn
+full:gsp4-cn.ls.apple.com @maybe_can_be_accessed_directly_inside_cn
+full:gsp4-cn.ls.apple.com.edgekey.net.globalredir.akadns.net @maybe_can_be_accessed_directly_inside_cn
+full:gsp5-cn.ls.apple.com @maybe_can_be_accessed_directly_inside_cn
+full:gsp85-cn-ssl.ls.apple.com @maybe_can_be_accessed_directly_inside_cn
+full:gspe19-2-cn-ssl.ls-apple.com.akadns.net @maybe_can_be_accessed_directly_inside_cn
+full:gspe19-2-cn-ssl.ls.apple.com @maybe_can_be_accessed_directly_inside_cn
+full:gspe19-cn-ssl.ls.apple.com @maybe_can_be_accessed_directly_inside_cn
+full:gspe19-cn.ls-apple.com.akadns.net @maybe_can_be_accessed_directly_inside_cn
+full:gspe19-cn.ls.apple.com @maybe_can_be_accessed_directly_inside_cn
+full:gspe21-ssl.ls.apple.com @maybe_can_be_accessed_directly_inside_cn
+full:gspe35-ssl.ls.apple.com @maybe_can_be_accessed_directly_inside_cn
+full:gspe79-cn-ssl.ls.apple.com @maybe_can_be_accessed_directly_inside_cn
+full:guzzoni-apple-com.v.aaplimg.com @maybe_can_be_accessed_directly_inside_cn
+full:guzzoni.apple.com @maybe_can_be_accessed_directly_inside_cn
+full:guzzoni.smoot.apple.com @maybe_can_be_accessed_directly_inside_cn
+full:icloud-cdn.icloud.com.akadns.net @maybe_can_be_accessed_directly_inside_cn
+full:icloud.cdn-apple.com @maybe_can_be_accessed_directly_inside_cn
+full:images.apple.com.edgekey.net.globalredir.akadns.net @maybe_can_be_accessed_directly_inside_cn
+full:init-kt.apple.com @maybe_can_be_accessed_directly_inside_cn
+full:init-p01md-lb.push-apple.com.akadns.net @maybe_can_be_accessed_directly_inside_cn
+full:init-p01md.apple.com @maybe_can_be_accessed_directly_inside_cn
+full:init-p01st-lb.push-apple.com.akadns.net @maybe_can_be_accessed_directly_inside_cn
+full:init-p01st.push.apple.com @maybe_can_be_accessed_directly_inside_cn
+full:init-s01st-lb.push-apple.com.akadns.net @maybe_can_be_accessed_directly_inside_cn
+full:init-s01st.push.apple.com @maybe_can_be_accessed_directly_inside_cn
+full:init.ess.apple.com @maybe_can_be_accessed_directly_inside_cn
+full:iosapps.itunes.g.aaplimg.com @maybe_can_be_accessed_directly_inside_cn
+full:ipcdn.apple.com @maybe_can_be_accessed_directly_inside_cn
+full:iphone-ld.apple.com @maybe_can_be_accessed_directly_inside_cn
+full:iphone-ld.origin-apple.com.akadns.net @maybe_can_be_accessed_directly_inside_cn
+full:is-ssl.mzstatic.com-cn-lb.itunes-apple.com.akadns.net @maybe_can_be_accessed_directly_inside_cn
+full:itunes-apple.com.akadns.net @maybe_can_be_accessed_directly_inside_cn
+full:itunes.apple.com @maybe_can_be_accessed_directly_inside_cn
+full:itunesconnect.apple.com @maybe_can_be_accessed_directly_inside_cn
+full:mesu-cdn.apple.com.akadns.net @maybe_can_be_accessed_directly_inside_cn
+full:mesu-china.apple.com.akadns.net @maybe_can_be_accessed_directly_inside_cn
+full:mesu.apple.com @maybe_can_be_accessed_directly_inside_cn
+full:ml.cdn-apple.com @maybe_can_be_accessed_directly_inside_cn
+full:music.apple.com @maybe_can_be_accessed_directly_inside_cn
+full:ocsp-lb.apple.com.akadns.net @maybe_can_be_accessed_directly_inside_cn
+full:ocsp.apple.com @maybe_can_be_accessed_directly_inside_cn
+full:ocsp2-lb.apple.com.akadns.net @maybe_can_be_accessed_directly_inside_cn
+full:ocsp2.apple.com @maybe_can_be_accessed_directly_inside_cn
+full:oscdn.apple.com @maybe_can_be_accessed_directly_inside_cn
+full:oscdn.origin-apple.com.akadns.net @maybe_can_be_accessed_directly_inside_cn
+full:osxapps.itunes.g.aaplimg.com @maybe_can_be_accessed_directly_inside_cn
+full:pancake.apple.com @maybe_can_be_accessed_directly_inside_cn
+full:pancake.cdn-apple.com.akadns.net @maybe_can_be_accessed_directly_inside_cn
+full:pba0.apple.com @maybe_can_be_accessed_directly_inside_cn
+full:probe.siri.apple.com @maybe_can_be_accessed_directly_inside_cn
+full:prod-support.apple-support.akadns.net @maybe_can_be_accessed_directly_inside_cn
+full:publicassets.cdn-apple.com @maybe_can_be_accessed_directly_inside_cn
+full:reserve-prime.apple.com @maybe_can_be_accessed_directly_inside_cn
+full:seed-sequoia.siri.apple.com @maybe_can_be_accessed_directly_inside_cn
+full:seed-swallow.siri.apple.com @maybe_can_be_accessed_directly_inside_cn
+full:seed.siri.apple.com @maybe_can_be_accessed_directly_inside_cn
+full:sequoia.apple.com @maybe_can_be_accessed_directly_inside_cn
+full:sh-pod2-smp-device.apple.com @maybe_can_be_accessed_directly_inside_cn
+full:shazam-insights.cdn-apple.com @maybe_can_be_accessed_directly_inside_cn
+full:smp-device-content.apple.com @maybe_can_be_accessed_directly_inside_cn
+full:static.gc.apple.com @maybe_can_be_accessed_directly_inside_cn
+full:stocks-sparkline-lb.apple.com.akadns.net @maybe_can_be_accessed_directly_inside_cn
+full:stocks-sparkline.apple.com @maybe_can_be_accessed_directly_inside_cn
+full:store.apple.com @maybe_can_be_accessed_directly_inside_cn
+full:store.apple.com.edgekey.net @maybe_can_be_accessed_directly_inside_cn
+full:store.apple.com.edgekey.net.globalredir.akadns.net @maybe_can_be_accessed_directly_inside_cn
+full:store.storeimages.apple.com.akadns.net @maybe_can_be_accessed_directly_inside_cn
+full:store.storeimages.cdn-apple.com @maybe_can_be_accessed_directly_inside_cn
+full:support-china.apple-support.akadns.net @maybe_can_be_accessed_directly_inside_cn
+full:support.apple.com @maybe_can_be_accessed_directly_inside_cn
+full:swallow-apple-com.v.aaplimg.com @maybe_can_be_accessed_directly_inside_cn
+full:swallow.apple.com @maybe_can_be_accessed_directly_inside_cn
+full:swcatalog-cdn.apple.com.akadns.net @maybe_can_be_accessed_directly_inside_cn
+full:swcatalog.apple.com @maybe_can_be_accessed_directly_inside_cn
+full:swcdn.apple.com @maybe_can_be_accessed_directly_inside_cn
+full:swcdn.g.aaplimg.com @maybe_can_be_accessed_directly_inside_cn
+full:swdist.apple.com @maybe_can_be_accessed_directly_inside_cn
+full:swdist.apple.com.akadns.net @maybe_can_be_accessed_directly_inside_cn
+full:swscan-cdn.apple.com.akadns.net @maybe_can_be_accessed_directly_inside_cn
+full:swscan.apple.com @maybe_can_be_accessed_directly_inside_cn
+full:sylvan.apple.com @maybe_can_be_accessed_directly_inside_cn
+full:tj-pod1-smp-device.apple.com @maybe_can_be_accessed_directly_inside_cn
+full:updates-http.cdn-apple.com @maybe_can_be_accessed_directly_inside_cn
+full:updates-http.cdn-apple.com.akadns.net @maybe_can_be_accessed_directly_inside_cn
+full:updates.cdn-apple.com @maybe_can_be_accessed_directly_inside_cn
+full:valid.apple.com @maybe_can_be_accessed_directly_inside_cn
+full:valid.origin-apple.com.akadns.net @maybe_can_be_accessed_directly_inside_cn
+full:weather-data.apple.com @maybe_can_be_accessed_directly_inside_cn
+full:weather-data.apple.com.akadns.net @maybe_can_be_accessed_directly_inside_cn
+full:weather-map.apple.com @maybe_can_be_accessed_directly_inside_cn
+full:weather-map2.apple.com @maybe_can_be_accessed_directly_inside_cn
+full:weatherkit.apple.com @maybe_can_be_accessed_directly_inside_cn
+full:www.apple.com @maybe_can_be_accessed_directly_inside_cn
+full:www.apple.com.edgekey.net.globalredir.akadns.net @maybe_can_be_accessed_directly_inside_cn
+full:xp.apple.com @maybe_can_be_accessed_directly_inside_cn

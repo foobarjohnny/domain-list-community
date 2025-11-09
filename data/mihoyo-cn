@@ -1,31 +1,31 @@
 # 米哈游
-mhystatic.com @cn
-mhyurl.cn @cn
-mihayo.com @cn
-mihayou.com @cn
-mihoyo.com @cn
-mihoyocg.com @cn
-mihoyogift.com @cn
-mihoyomall.com @cn
-miyoushe.com @cn
+mhystatic.com @maybe_can_be_accessed_directly_inside_cn
+mhyurl.cn @maybe_can_be_accessed_directly_inside_cn
+mihayo.com @maybe_can_be_accessed_directly_inside_cn
+mihayou.com @maybe_can_be_accessed_directly_inside_cn
+mihoyo.com @maybe_can_be_accessed_directly_inside_cn
+mihoyocg.com @maybe_can_be_accessed_directly_inside_cn
+mihoyogift.com @maybe_can_be_accessed_directly_inside_cn
+mihoyomall.com @maybe_can_be_accessed_directly_inside_cn
+miyoushe.com @maybe_can_be_accessed_directly_inside_cn
 
 # 崩坏2
-benghuai.com @cn
+benghuai.com @maybe_can_be_accessed_directly_inside_cn
 
 # 崩坏3
-bh3.com @cn
+bh3.com @maybe_can_be_accessed_directly_inside_cn
 
 # 星穹铁道
-bhsr.com @cn
+bhsr.com @maybe_can_be_accessed_directly_inside_cn
 
 # 未定事件簿
-themisweeps.com @cn
+themisweeps.com @maybe_can_be_accessed_directly_inside_cn
 
 # 原神
-yuanshen.com @cn
+yuanshen.com @maybe_can_be_accessed_directly_inside_cn
 
 #绝区零
-juequling.com @cn
+juequling.com @maybe_can_be_accessed_directly_inside_cn
 
 # Akamai
-regexp:^.+-mihayo\.akamaized\.net$ @cn
+regexp:^.+-mihayo\.akamaized\.net$ @maybe_can_be_accessed_directly_inside_cn

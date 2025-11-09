@@ -88,7 +88,7 @@ google.ch
 google.ci
 google.cl
 google.cm
-google.cn @cn
+google.cn @maybe_can_be_accessed_directly_inside_cn
 google.co
 google.co.ao
 google.co.bw
@@ -329,7 +329,7 @@ foofle.com
 froogle.com
 fuchsia.dev
 g-tun.com
-g.cn @cn
+g.cn @maybe_can_be_accessed_directly_inside_cn
 g.co
 g.dev
 g.page
@@ -339,7 +339,7 @@ gerritcodereview.com
 getbumptop.com
 ggoogle.com
 gipscorp.com
-gkecnapps.cn @cn
+gkecnapps.cn @maybe_can_be_accessed_directly_inside_cn
 globaledu.org
 gmail.com
 gmodules.com
@@ -366,7 +366,7 @@ googleblog.com
 googlebot.com
 googlecapital.com
 googlecert.net
-googlecnapps.cn @cn
+googlecnapps.cn @maybe_can_be_accessed_directly_inside_cn
 googlecode.com
 googlecommerce.com
 googlecompare.co.uk
@@ -394,9 +394,9 @@ goolge.com
 gooogle.com
 gridaware.app
 gsrc.io
-gstatic.cn @cn
+gstatic.cn @maybe_can_be_accessed_directly_inside_cn
 gstatic.com
-gstaticcnapps.cn @cn
+gstaticcnapps.cn @maybe_can_be_accessed_directly_inside_cn
 gsuite.com
 gv.com
 gvt0.com
@@ -543,153 +543,153 @@ zukunftswerkstatt.de
 full:google-ohttp-relay-safebrowsing.fastly-edge.com
 
 # Domains and services below are available in China mainland
-# Use in config file like this: "geosite:google@cn"
-full:www.recaptcha.net @cn
-full:safebrowsing-cache.google.com @cn
+# Use in config file like this: "geosite:google@maybe_can_be_accessed_directly_inside_cn"
+full:www.recaptcha.net @maybe_can_be_accessed_directly_inside_cn
+full:safebrowsing-cache.google.com @maybe_can_be_accessed_directly_inside_cn
 
 # The rules below are from https://github.com/felixonmars/dnsmasq-china-list/blob/master/google.china.conf
 # Revision: 1f28a2d5789f411c13de69837bb354f4b21e58ff
-# Use in config file like this: "geosite:google@cn"
-full:265.com @cn
-full:2mdn-cn.net @cn
-full:2mdn.net @cn
-full:admob-cn.com @cn
-full:adservice.google.com @cn
-full:app-analytics-services.com @cn
-full:app-measurement-cn.com @cn
-full:app-measurement.com @cn
-full:apps5.oingo.com @cn
-full:avail.googleflights.net @cn
-full:beacons.gcp.gvt2.com @cn
-full:beacons.gvt2.com @cn
-full:beacons2.gvt2.com @cn
-full:beacons3.gvt2.com @cn
-full:c.admob.com @cn
-full:c.android.clients.google.com @cn
-full:cache-management-prod.google.com @cn
-full:cache.pack.google.com @cn
-full:checkin.gstatic.com @cn
-full:clickserve.cc-dt.com @cn
-full:clickserve.dartsearch.net @cn
-full:clickserver.googleads.com @cn
-full:clientservices.googleapis.com @cn
-full:cn.widevine.com @cn
-full:cnappinstall.googleadapis.com @cn
-full:connectivitycheck.gstatic.com @cn
-full:content.googleadapis.com @cn
-full:crashlyticsreports-pa.googleapis.com @cn
-full:crl.pki.goog @cn
-full:csi.gstatic.com @cn
-full:dartsearch-cn.net @cn
-full:dg-meta.video.google.com @cn
-full:dl.google.com @cn
-full:dl.l.google.com @cn
-full:doubleclick-cn.net @cn
-full:doubleclick.net @cn
-full:download.mlcc.google.com @cn
-full:download.qatp1.net @cn
-full:download.tensorflow.google.com @cn
-full:emmapplecodevice.googleapis.com @cn
-full:firebase-settings.crashlytics.com @cn
-full:fontfiles.googleapis.com @cn
-full:fonts.googleapis.com @cn
-full:fonts.gstatic.com @cn
-full:g0.gstatic.com @cn
-full:g1.gstatic.com @cn
-full:g2.gstatic.com @cn
-full:g3.gstatic.com @cn
-full:go.corp.google.com @cn
-full:gonglchuangl.net @cn
-full:gongyichuangyi.net @cn
-full:google-analytics-cn.com @cn
-full:google-analytics.com @cn
-full:googleadservices-cn.com @cn
-full:googleadservices.com @cn
-full:googleanalytics.com @cn
-full:googleapis-cn.com @cn
-full:googleapps-cn.com @cn
-full:googleflights-cn.net @cn
-full:googleoptimize-cn.com @cn
-full:googleoptimize.com @cn
-full:googlesyndication-cn.com @cn
-full:googlesyndication.com @cn
-full:googletagmanager-cn.com @cn
-full:googletagmanager.com @cn
-full:googletagservices-cn.com @cn
-full:googletagservices.com @cn
-full:googletraveladservices-cn.com @cn
-full:googletraveladservices.com @cn
-full:googlevads-cn.com @cn
-full:gstatic-cn.com @cn
-full:gstaticadssl.l.google.com @cn
-full:gtm.oasisfeng.com @cn
-full:imasdk.googleapis.com @cn
-full:l2-uberproxy.corp.google.com @cn
-full:logger-dev.corp.google.com @cn
-full:logger.corp.google.com @cn
-full:login.corp.google.com @cn
-full:monitoring.qpdp1.net @cn
-full:ocsp.pki.goog @cn
-full:pagead-googlehosted.l.google.com @cn
-full:performanceparameters.googleapis.com @cn
-full:pki-goog.l.google.com @cn
-full:prod-controlbe.floonet.goog @cn
-full:prod-databe.floonet.goog @cn
-full:prod.databe.floonet.goog @cn
-full:proxyconfig.corp.google.com @cn
-full:qagpublic.qatp1.net @cn
-full:qgadmin.qcpp1.net @cn
-full:qiao-cn.com @cn
-full:qpx.googleflights.net @cn
-full:qualysapi.qatp1.net @cn
-full:qualysguard.qpdp1.net @cn
-full:r.cert.corp.google.com @cn
-full:rapture-prod.corp.google.com @cn
-full:recaptcha-cn.net @cn
-full:recaptcha.net @cn
-full:redirector.bdn.dev @cn
-full:redirector.c.chat.google.com @cn
-full:redirector.c.mail.google.com @cn
-full:redirector.c.pack.google.com @cn
-full:redirector.c.play.google.com @cn
-full:redirector.c.youtubeeducation.com @cn
-full:redirector.gcpcdn.gvt1.com @cn
-full:redirector.gvt1.com @cn
-full:redirector.offline-maps.gvt1.com @cn
-full:redirector.snap.gvt1.com @cn
-full:redirector.xn--ngstr-lra8j.com @cn
-full:safebrowsing-cache.google.com @cn
-full:safebrowsing.googleapis.com @cn
-full:scanservice1.qcpp1.net @cn
-full:service.urchin.com @cn
-full:ssl-google-analytics.l.google.com @cn
-full:ssl.gstatic.com @cn
-full:sslredirect.corp.google.com @cn
-full:staging-controlbe.floonet.goog @cn
-full:staging-databe.floonet.goog @cn
-full:staging.databe.floonet.goog @cn
-full:streaming-uberproxy-rotation.corp.google.com @cn
-full:streaming-uberproxy.corp.google.com @cn
-full:sup-ssh-relay.corp.google.com @cn
-full:sup-ssh-relay2.corp.google.com @cn
-full:sup.corp.google.com @cn
-full:sup.l.google.com @cn
-full:tac.googleapis.com @cn
-full:test.gbugs-qa.chromium.org @cn
-full:tools.google.com @cn
-full:tools.l.google.com @cn
-full:uberproxy-debug4.corp.google.com @cn
-full:uberproxy.corp.google.com @cn
-full:uberproxy6.corp.google.com @cn
-full:update.crashlytics.com @cn
-full:update.googleapis.com @cn
-full:wear.googleapis.com @cn
-full:www-google-analytics.l.google.com @cn
-full:www-googletagmanager.l.google.com @cn
-full:www.destinationurl.com @cn
-full:www.gstatic.com @cn
-full:www.pxcc.com @cn
-full:xn--flw351e.com @cn
+# Use in config file like this: "geosite:google@maybe_can_be_accessed_directly_inside_cn"
+full:265.com @maybe_can_be_accessed_directly_inside_cn
+full:2mdn-cn.net @maybe_can_be_accessed_directly_inside_cn
+full:2mdn.net @maybe_can_be_accessed_directly_inside_cn
+full:admob-cn.com @maybe_can_be_accessed_directly_inside_cn
+full:adservice.google.com @maybe_can_be_accessed_directly_inside_cn
+full:app-analytics-services.com @maybe_can_be_accessed_directly_inside_cn
+full:app-measurement-cn.com @maybe_can_be_accessed_directly_inside_cn
+full:app-measurement.com @maybe_can_be_accessed_directly_inside_cn
+full:apps5.oingo.com @maybe_can_be_accessed_directly_inside_cn
+full:avail.googleflights.net @maybe_can_be_accessed_directly_inside_cn
+full:beacons.gcp.gvt2.com @maybe_can_be_accessed_directly_inside_cn
+full:beacons.gvt2.com @maybe_can_be_accessed_directly_inside_cn
+full:beacons2.gvt2.com @maybe_can_be_accessed_directly_inside_cn
+full:beacons3.gvt2.com @maybe_can_be_accessed_directly_inside_cn
+full:c.admob.com @maybe_can_be_accessed_directly_inside_cn
+full:c.android.clients.google.com @maybe_can_be_accessed_directly_inside_cn
+full:cache-management-prod.google.com @maybe_can_be_accessed_directly_inside_cn
+full:cache.pack.google.com @maybe_can_be_accessed_directly_inside_cn
+full:checkin.gstatic.com @maybe_can_be_accessed_directly_inside_cn
+full:clickserve.cc-dt.com @maybe_can_be_accessed_directly_inside_cn
+full:clickserve.dartsearch.net @maybe_can_be_accessed_directly_inside_cn
+full:clickserver.googleads.com @maybe_can_be_accessed_directly_inside_cn
+full:clientservices.googleapis.com @maybe_can_be_accessed_directly_inside_cn
+full:cn.widevine.com @maybe_can_be_accessed_directly_inside_cn
+full:cnappinstall.googleadapis.com @maybe_can_be_accessed_directly_inside_cn
+full:connectivitycheck.gstatic.com @maybe_can_be_accessed_directly_inside_cn
+full:content.googleadapis.com @maybe_can_be_accessed_directly_inside_cn
+full:crashlyticsreports-pa.googleapis.com @maybe_can_be_accessed_directly_inside_cn
+full:crl.pki.goog @maybe_can_be_accessed_directly_inside_cn
+full:csi.gstatic.com @maybe_can_be_accessed_directly_inside_cn
+full:dartsearch-cn.net @maybe_can_be_accessed_directly_inside_cn
+full:dg-meta.video.google.com @maybe_can_be_accessed_directly_inside_cn
+full:dl.google.com @maybe_can_be_accessed_directly_inside_cn
+full:dl.l.google.com @maybe_can_be_accessed_directly_inside_cn
+full:doubleclick-cn.net @maybe_can_be_accessed_directly_inside_cn
+full:doubleclick.net @maybe_can_be_accessed_directly_inside_cn
+full:download.mlcc.google.com @maybe_can_be_accessed_directly_inside_cn
+full:download.qatp1.net @maybe_can_be_accessed_directly_inside_cn
+full:download.tensorflow.google.com @maybe_can_be_accessed_directly_inside_cn
+full:emmapplecodevice.googleapis.com @maybe_can_be_accessed_directly_inside_cn
+full:firebase-settings.crashlytics.com @maybe_can_be_accessed_directly_inside_cn
+full:fontfiles.googleapis.com @maybe_can_be_accessed_directly_inside_cn
+full:fonts.googleapis.com @maybe_can_be_accessed_directly_inside_cn
+full:fonts.gstatic.com @maybe_can_be_accessed_directly_inside_cn
+full:g0.gstatic.com @maybe_can_be_accessed_directly_inside_cn
+full:g1.gstatic.com @maybe_can_be_accessed_directly_inside_cn
+full:g2.gstatic.com @maybe_can_be_accessed_directly_inside_cn
+full:g3.gstatic.com @maybe_can_be_accessed_directly_inside_cn
+full:go.corp.google.com @maybe_can_be_accessed_directly_inside_cn
+full:gonglchuangl.net @maybe_can_be_accessed_directly_inside_cn
+full:gongyichuangyi.net @maybe_can_be_accessed_directly_inside_cn
+full:google-analytics-cn.com @maybe_can_be_accessed_directly_inside_cn
+full:google-analytics.com @maybe_can_be_accessed_directly_inside_cn
+full:googleadservices-cn.com @maybe_can_be_accessed_directly_inside_cn
+full:googleadservices.com @maybe_can_be_accessed_directly_inside_cn
+full:googleanalytics.com @maybe_can_be_accessed_directly_inside_cn
+full:googleapis-cn.com @maybe_can_be_accessed_directly_inside_cn
+full:googleapps-cn.com @maybe_can_be_accessed_directly_inside_cn
+full:googleflights-cn.net @maybe_can_be_accessed_directly_inside_cn
+full:googleoptimize-cn.com @maybe_can_be_accessed_directly_inside_cn
+full:googleoptimize.com @maybe_can_be_accessed_directly_inside_cn
+full:googlesyndication-cn.com @maybe_can_be_accessed_directly_inside_cn
+full:googlesyndication.com @maybe_can_be_accessed_directly_inside_cn
+full:googletagmanager-cn.com @maybe_can_be_accessed_directly_inside_cn
+full:googletagmanager.com @maybe_can_be_accessed_directly_inside_cn
+full:googletagservices-cn.com @maybe_can_be_accessed_directly_inside_cn
+full:googletagservices.com @maybe_can_be_accessed_directly_inside_cn
+full:googletraveladservices-cn.com @maybe_can_be_accessed_directly_inside_cn
+full:googletraveladservices.com @maybe_can_be_accessed_directly_inside_cn
+full:googlevads-cn.com @maybe_can_be_accessed_directly_inside_cn
+full:gstatic-cn.com @maybe_can_be_accessed_directly_inside_cn
+full:gstaticadssl.l.google.com @maybe_can_be_accessed_directly_inside_cn
+full:gtm.oasisfeng.com @maybe_can_be_accessed_directly_inside_cn
+full:imasdk.googleapis.com @maybe_can_be_accessed_directly_inside_cn
+full:l2-uberproxy.corp.google.com @maybe_can_be_accessed_directly_inside_cn
+full:logger-dev.corp.google.com @maybe_can_be_accessed_directly_inside_cn
+full:logger.corp.google.com @maybe_can_be_accessed_directly_inside_cn
+full:login.corp.google.com @maybe_can_be_accessed_directly_inside_cn
+full:monitoring.qpdp1.net @maybe_can_be_accessed_directly_inside_cn
+full:ocsp.pki.goog @maybe_can_be_accessed_directly_inside_cn
+full:pagead-googlehosted.l.google.com @maybe_can_be_accessed_directly_inside_cn
+full:performanceparameters.googleapis.com @maybe_can_be_accessed_directly_inside_cn
+full:pki-goog.l.google.com @maybe_can_be_accessed_directly_inside_cn
+full:prod-controlbe.floonet.goog @maybe_can_be_accessed_directly_inside_cn
+full:prod-databe.floonet.goog @maybe_can_be_accessed_directly_inside_cn
+full:prod.databe.floonet.goog @maybe_can_be_accessed_directly_inside_cn
+full:proxyconfig.corp.google.com @maybe_can_be_accessed_directly_inside_cn
+full:qagpublic.qatp1.net @maybe_can_be_accessed_directly_inside_cn
+full:qgadmin.qcpp1.net @maybe_can_be_accessed_directly_inside_cn
+full:qiao-cn.com @maybe_can_be_accessed_directly_inside_cn
+full:qpx.googleflights.net @maybe_can_be_accessed_directly_inside_cn
+full:qualysapi.qatp1.net @maybe_can_be_accessed_directly_inside_cn
+full:qualysguard.qpdp1.net @maybe_can_be_accessed_directly_inside_cn
+full:r.cert.corp.google.com @maybe_can_be_accessed_directly_inside_cn
+full:rapture-prod.corp.google.com @maybe_can_be_accessed_directly_inside_cn
+full:recaptcha-cn.net @maybe_can_be_accessed_directly_inside_cn
+full:recaptcha.net @maybe_can_be_accessed_directly_inside_cn
+full:redirector.bdn.dev @maybe_can_be_accessed_directly_inside_cn
+full:redirector.c.chat.google.com @maybe_can_be_accessed_directly_inside_cn
+full:redirector.c.mail.google.com @maybe_can_be_accessed_directly_inside_cn
+full:redirector.c.pack.google.com @maybe_can_be_accessed_directly_inside_cn
+full:redirector.c.play.google.com @maybe_can_be_accessed_directly_inside_cn
+full:redirector.c.youtubeeducation.com @maybe_can_be_accessed_directly_inside_cn
+full:redirector.gcpcdn.gvt1.com @maybe_can_be_accessed_directly_inside_cn
+full:redirector.gvt1.com @maybe_can_be_accessed_directly_inside_cn
+full:redirector.offline-maps.gvt1.com @maybe_can_be_accessed_directly_inside_cn
+full:redirector.snap.gvt1.com @maybe_can_be_accessed_directly_inside_cn
+full:redirector.xn--ngstr-lra8j.com @maybe_can_be_accessed_directly_inside_cn
+full:safebrowsing-cache.google.com @maybe_can_be_accessed_directly_inside_cn
+full:safebrowsing.googleapis.com @maybe_can_be_accessed_directly_inside_cn
+full:scanservice1.qcpp1.net @maybe_can_be_accessed_directly_inside_cn
+full:service.urchin.com @maybe_can_be_accessed_directly_inside_cn
+full:ssl-google-analytics.l.google.com @maybe_can_be_accessed_directly_inside_cn
+full:ssl.gstatic.com @maybe_can_be_accessed_directly_inside_cn
+full:sslredirect.corp.google.com @maybe_can_be_accessed_directly_inside_cn
+full:staging-controlbe.floonet.goog @maybe_can_be_accessed_directly_inside_cn
+full:staging-databe.floonet.goog @maybe_can_be_accessed_directly_inside_cn
+full:staging.databe.floonet.goog @maybe_can_be_accessed_directly_inside_cn
+full:streaming-uberproxy-rotation.corp.google.com @maybe_can_be_accessed_directly_inside_cn
+full:streaming-uberproxy.corp.google.com @maybe_can_be_accessed_directly_inside_cn
+full:sup-ssh-relay.corp.google.com @maybe_can_be_accessed_directly_inside_cn
+full:sup-ssh-relay2.corp.google.com @maybe_can_be_accessed_directly_inside_cn
+full:sup.corp.google.com @maybe_can_be_accessed_directly_inside_cn
+full:sup.l.google.com @maybe_can_be_accessed_directly_inside_cn
+full:tac.googleapis.com @maybe_can_be_accessed_directly_inside_cn
+full:test.gbugs-qa.chromium.org @maybe_can_be_accessed_directly_inside_cn
+full:tools.google.com @maybe_can_be_accessed_directly_inside_cn
+full:tools.l.google.com @maybe_can_be_accessed_directly_inside_cn
+full:uberproxy-debug4.corp.google.com @maybe_can_be_accessed_directly_inside_cn
+full:uberproxy.corp.google.com @maybe_can_be_accessed_directly_inside_cn
+full:uberproxy6.corp.google.com @maybe_can_be_accessed_directly_inside_cn
+full:update.crashlytics.com @maybe_can_be_accessed_directly_inside_cn
+full:update.googleapis.com @maybe_can_be_accessed_directly_inside_cn
+full:wear.googleapis.com @maybe_can_be_accessed_directly_inside_cn
+full:www-google-analytics.l.google.com @maybe_can_be_accessed_directly_inside_cn
+full:www-googletagmanager.l.google.com @maybe_can_be_accessed_directly_inside_cn
+full:www.destinationurl.com @maybe_can_be_accessed_directly_inside_cn
+full:www.gstatic.com @maybe_can_be_accessed_directly_inside_cn
+full:www.pxcc.com @maybe_can_be_accessed_directly_inside_cn
+full:xn--flw351e.com @maybe_can_be_accessed_directly_inside_cn
 
-gvt1-cn.com @cn
-gvt2-cn.com @cn
+gvt1-cn.com @maybe_can_be_accessed_directly_inside_cn
+gvt2-cn.com @maybe_can_be_accessed_directly_inside_cn

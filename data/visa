@@ -1,7 +1,7 @@
 visa.be
 visa.ca
 visa.cl
-visa.cn @cn
+visa.cn @maybe_can_be_accessed_directly_inside_cn
 visa.co.ao
 visa.co.cr
 visa.co.id
@@ -25,7 +25,7 @@ visa.com.bo
 visa.com.br
 visa.com.bs
 visa.com.bz
-visa.com.cn @cn
+visa.com.cn @maybe_can_be_accessed_directly_inside_cn
 visa.com.co
 visa.com.cy
 visa.com.dm
@@ -120,14 +120,14 @@ connaissancesfinancierespratiques.ca
 dnsvisa.com
 eubluecardvisa.com
 financialsoccer.ca
-financialsoccer.com.cn @cn
+financialsoccer.com.cn @maybe_can_be_accessed_directly_inside_cn
 lightbridge.com
 miamifintechfestival.com
 mhshosting.com
 practicalbusinessskills.com
 practicalmoneyskills.ca
-practicalmoneyskills.cn @cn
-practicalmoneyskills.com.cn @cn
+practicalmoneyskills.cn @maybe_can_be_accessed_directly_inside_cn
+practicalmoneyskills.com.cn @maybe_can_be_accessed_directly_inside_cn
 practicalmoneyskills.jp
 soccerfinancier.ca
 torcidadeouro.com
@@ -155,12 +155,12 @@ visagiftcard.us
 visaglobalfinance.com
 visaicsdirect.com
 visainfinite.ca
-visainfinite.cn @cn
+visainfinite.cn @maybe_can_be_accessed_directly_inside_cn
 visanet.net
-visapay.cn @cn
+visapay.cn @maybe_can_be_accessed_directly_inside_cn
 visapcsdirect.com
-visaplatinum.cn @cn
-visaplatinum.com.cn @cn
+visaplatinum.cn @maybe_can_be_accessed_directly_inside_cn
+visaplatinum.com.cn @maybe_can_be_accessed_directly_inside_cn
 visaplus.com
 visasavingsedge.ca
 visasignature.co.kr

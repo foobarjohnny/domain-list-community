@@ -2,7 +2,7 @@
 bing
 
 bing.com
-bing.com.cn @cn
+bing.com.cn @maybe_can_be_accessed_directly_inside_cn
 bing.net
 bing123.com
 bingads.com
@@ -32,11 +32,11 @@ sprinklesapp.com
 
 full:location.microsoft.com
 
-cn.bing.com @cn
-cn.bing.net @cn
-cn.mm.bing.net @cn
-ditu.live.com @cn
-r.bing.com @cn
-th.bing.com @cn
-full:bj1.api.bing.com @cn
-full:emoi-cncdn.bing.com @cn
+cn.bing.com @maybe_can_be_accessed_directly_inside_cn
+cn.bing.net @maybe_can_be_accessed_directly_inside_cn
+cn.mm.bing.net @maybe_can_be_accessed_directly_inside_cn
+ditu.live.com @maybe_can_be_accessed_directly_inside_cn
+r.bing.com @maybe_can_be_accessed_directly_inside_cn
+th.bing.com @maybe_can_be_accessed_directly_inside_cn
+full:bj1.api.bing.com @maybe_can_be_accessed_directly_inside_cn
+full:emoi-cncdn.bing.com @maybe_can_be_accessed_directly_inside_cn

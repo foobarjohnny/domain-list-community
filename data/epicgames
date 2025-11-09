@@ -27,6 +27,6 @@ unrealengine.com
 unrealtournament.com
 
 egdownload.fastly-edge.com
-regexp:^cdn\d-epicgames-\d+\.file\.myqcloud\.com$ @cn
+regexp:^cdn\d-epicgames-\d+\.file\.myqcloud\.com$ @maybe_can_be_accessed_directly_inside_cn
 regexp:^epicgames-download\d\.akamaized\.net$
-regexp:^epicgames-download\d-\d+\.file\.myqcloud\.com$ @cn
+regexp:^epicgames-download\d-\d+\.file\.myqcloud\.com$ @maybe_can_be_accessed_directly_inside_cn

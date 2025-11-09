@@ -42,7 +42,7 @@ alienware.us
 
 del.com
 del.com.br
-dell-brand.com @cn
+dell-brand.com @maybe_can_be_accessed_directly_inside_cn
 dell.ac
 dell.am
 dell.at
@@ -79,7 +79,7 @@ dell.com.bo
 dell.com.br
 dell.com.bs
 dell.com.bz
-dell.com.cn @cn
+dell.com.cn @maybe_can_be_accessed_directly_inside_cn
 dell.com.co
 dell.com.cy
 dell.com.dm
@@ -183,7 +183,7 @@ dell.vg
 dell.vn
 
 dataframeworks.com
-dell-alw.com @cn
+dell-alw.com @maybe_can_be_accessed_directly_inside_cn
 dellcdn.com
 dellcommunity.com
 dellcomunidade.com
@@ -191,9 +191,9 @@ dellcustomerservice.com
 delldesignsystem.com
 delldrivers.com
 dellemc.com
-dellemc.com.cn @cn
+dellemc.com.cn @maybe_can_be_accessed_directly_inside_cn
 dellemcevents.com
-dellmobile.cn @cn
+dellmobile.cn @maybe_can_be_accessed_directly_inside_cn
 delloutlet.com
 dellpoweredge.com
 dellpowersolutions.com
@@ -202,12 +202,12 @@ dellprinter.com
 dellsupportcenter.com
 delltechcenter.com
 delltechnologies.com
-delltechnologies.com.cn @cn
+delltechnologies.com.cn @maybe_can_be_accessed_directly_inside_cn
 delltechnologiescapital.com
 delltechnologiesworld.com
 earthdell.com
 emc.com
-platform.dell.com @cn
+platform.dell.com @maybe_can_be_accessed_directly_inside_cn
 shopalienware.com
 solutionstation.com
 studiodell.com
@@ -215,29 +215,29 @@ vce.com
 
 full:dell.my.site.com
 
-full:afcs.dell.com @cn
-full:clientperipherals.dell.com @cn
-full:customization-cdn.dell.com @cn
-full:dds.dell.com @cn
-full:dl.dell.com @cn
-full:ea2cn-dev-outlet.dell.com @cn
-full:ea2cn-prod-outlet.dell.com @cn
-full:ea2cn-staging-outlet.dell.com @cn
-full:fcs.dell.com @cn
-full:fta.dell.com @cn
-full:ftaapj.dell.com @cn
-full:ftaemea.dell.com @cn
-full:ftasitapj.dell.com @cn
-full:gbxgateway-dev.dell.com @cn
-full:gbxgateway.dell.com @cn
-full:i.dell.com @cn
-full:nexus.dell.com @cn
-full:p.cdn.persaas.dell.com @cn
-full:scene7-cdn.dell.com @cn
-full:si.cdn.dell.com @cn
-full:sm.dell.com @cn
-full:snp.cdn.dell.com @cn
-full:snpi.dell.com @cn
-full:supportassist.dell.com @cn
-full:www-csb.dell.com @cn
-full:www.dell.com @cn
+full:afcs.dell.com @maybe_can_be_accessed_directly_inside_cn
+full:clientperipherals.dell.com @maybe_can_be_accessed_directly_inside_cn
+full:customization-cdn.dell.com @maybe_can_be_accessed_directly_inside_cn
+full:dds.dell.com @maybe_can_be_accessed_directly_inside_cn
+full:dl.dell.com @maybe_can_be_accessed_directly_inside_cn
+full:ea2cn-dev-outlet.dell.com @maybe_can_be_accessed_directly_inside_cn
+full:ea2cn-prod-outlet.dell.com @maybe_can_be_accessed_directly_inside_cn
+full:ea2cn-staging-outlet.dell.com @maybe_can_be_accessed_directly_inside_cn
+full:fcs.dell.com @maybe_can_be_accessed_directly_inside_cn
+full:fta.dell.com @maybe_can_be_accessed_directly_inside_cn
+full:ftaapj.dell.com @maybe_can_be_accessed_directly_inside_cn
+full:ftaemea.dell.com @maybe_can_be_accessed_directly_inside_cn
+full:ftasitapj.dell.com @maybe_can_be_accessed_directly_inside_cn
+full:gbxgateway-dev.dell.com @maybe_can_be_accessed_directly_inside_cn
+full:gbxgateway.dell.com @maybe_can_be_accessed_directly_inside_cn
+full:i.dell.com @maybe_can_be_accessed_directly_inside_cn
+full:nexus.dell.com @maybe_can_be_accessed_directly_inside_cn
+full:p.cdn.persaas.dell.com @maybe_can_be_accessed_directly_inside_cn
+full:scene7-cdn.dell.com @maybe_can_be_accessed_directly_inside_cn
+full:si.cdn.dell.com @maybe_can_be_accessed_directly_inside_cn
+full:sm.dell.com @maybe_can_be_accessed_directly_inside_cn
+full:snp.cdn.dell.com @maybe_can_be_accessed_directly_inside_cn
+full:snpi.dell.com @maybe_can_be_accessed_directly_inside_cn
+full:supportassist.dell.com @maybe_can_be_accessed_directly_inside_cn
+full:www-csb.dell.com @maybe_can_be_accessed_directly_inside_cn
+full:www.dell.com @maybe_can_be_accessed_directly_inside_cn

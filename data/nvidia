@@ -1,9 +1,9 @@
-geforce.cn @cn
+geforce.cn @maybe_can_be_accessed_directly_inside_cn
 geforce.co.kr
 geforce.co.uk
 geforce.com
 geforce.com.tw
-gputechconf.cn @cn
+gputechconf.cn @maybe_can_be_accessed_directly_inside_cn
 gputechconf.co.kr
 gputechconf.com
 gputechconf.com.au
@@ -15,7 +15,7 @@ nvidia.asia
 nvidia.at
 nvidia.be
 nvidia.ch
-nvidia.cn @cn
+nvidia.cn @maybe_can_be_accessed_directly_inside_cn
 nvidia.co.at
 nvidia.co.in
 nvidia.co.jp
@@ -62,4 +62,4 @@ tegrazone.kr
 full:nvidia.tt.omtrdc.net
 
 # NVIDIA 文件下载服务器中国镜像
-full:cn.download.nvidia.com @cn
+full:cn.download.nvidia.com @maybe_can_be_accessed_directly_inside_cn

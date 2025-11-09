@@ -42,7 +42,7 @@ egdownload.fastly-edge.com
 full:cloudflare.epicgamescdn.com
 
 # Epic Game - 游戏下载[中国区]
-full:epicgames-download1-1251447533.file.myqcloud.com @cn
+full:epicgames-download1-1251447533.file.myqcloud.com @maybe_can_be_accessed_directly_inside_cn
 
 # Battle.net - 战网下载[CloudN]
 full:blizzard.gcdn.cloudn.co.kr
@@ -59,11 +59,11 @@ full:us.cdn.blizzard.com
 full:eu.cdn.blizzard.com
 
 # Battle.net - 战网下载[网易国服]
-full:blzdist-phx.necdn.leihuo.netease.com @cn
-full:blzdist-wow.necdn.leihuo.netease.com @cn
-full:blzdist-hs.necdn.leihuo.netease.com @cn
-full:blzdist-di.necdn.leihuo.netease.com @cn
-full:blzdist-ow.necdn.leihuo.netease.com @cn
+full:blzdist-phx.necdn.leihuo.netease.com @maybe_can_be_accessed_directly_inside_cn
+full:blzdist-wow.necdn.leihuo.netease.com @maybe_can_be_accessed_directly_inside_cn
+full:blzdist-hs.necdn.leihuo.netease.com @maybe_can_be_accessed_directly_inside_cn
+full:blzdist-di.necdn.leihuo.netease.com @maybe_can_be_accessed_directly_inside_cn
+full:blzdist-ow.necdn.leihuo.netease.com @maybe_can_be_accessed_directly_inside_cn
 
 # GOG - 客户端更新/游戏下载[Akamai]
 full:gog-cdn.akamaized.net
@@ -77,10 +77,10 @@ full:galaxy-promos.gog.com
 full:marketing-sections.gog.com
 
 # XBOX/Microsoft Store - 游戏下载(大陆地区)
-full:assets1.xboxlive.cn @cn
-full:assets2.xboxlive.cn @cn
-full:dl.delivery.mp.microsoft.com @cn
-full:tlu.dl.delivery.mp.microsoft.com @cn
+full:assets1.xboxlive.cn @maybe_can_be_accessed_directly_inside_cn
+full:assets2.xboxlive.cn @maybe_can_be_accessed_directly_inside_cn
+full:dl.delivery.mp.microsoft.com @maybe_can_be_accessed_directly_inside_cn
+full:tlu.dl.delivery.mp.microsoft.com @maybe_can_be_accessed_directly_inside_cn
 
 # XBOX/Microsoft Store - 游戏下载(国际)
 full:xvcf1.xboxlive.com
@@ -94,31 +94,31 @@ full:uplaypc-s-ubisoft-ww.cdn.ubi.com
 full:ubisoftconnect.cdn.ubi.com
 
 # Ubisoft Connect(Uplay) - 游戏下载(中国大陆地区)
-full:uplaypc-s-ubisoft.cdn.ubionline.com.cn @cn
+full:uplaypc-s-ubisoft.cdn.ubionline.com.cn @maybe_can_be_accessed_directly_inside_cn
 
 # EA Desktop - 游戏下载[akamai-CDN]
 full:origin-a.akamaihd.net
 
 # Steam - 游戏下载(中国区)[新流云]
-full:dl.steam.clngaa.com @cn
+full:dl.steam.clngaa.com @maybe_can_be_accessed_directly_inside_cn
 
 # Steam - 游戏下载(中国区)[白山云]
-full:st.dl.eccdnx.com @cn
-full:st.dl.bscstorage.net @cn
-full:trts.baishancdnx.cn @cn
-full:st-bak.viv.wanwang.space @cn
+full:st.dl.eccdnx.com @maybe_can_be_accessed_directly_inside_cn
+full:st.dl.bscstorage.net @maybe_can_be_accessed_directly_inside_cn
+full:trts.baishancdnx.cn @maybe_can_be_accessed_directly_inside_cn
+full:st-bak.viv.wanwang.space @maybe_can_be_accessed_directly_inside_cn
 
 # Steam - 游戏下载(中国区)[阿里云]
-full:cdn-ali.content.steamchina.com @cn
-full:xz.pphimalayanrt.com @cn
-full:lv.queniujq.cn @cn
-full:alibaba.cdn.steampipe.steamcontent.com @cn
+full:cdn-ali.content.steamchina.com @maybe_can_be_accessed_directly_inside_cn
+full:xz.pphimalayanrt.com @maybe_can_be_accessed_directly_inside_cn
+full:lv.queniujq.cn @maybe_can_be_accessed_directly_inside_cn
+full:alibaba.cdn.steampipe.steamcontent.com @maybe_can_be_accessed_directly_inside_cn
 
 # Steam - 游戏下载(中国区)[网宿]
-full:cdn-ws.content.steamchina.com @cn
+full:cdn-ws.content.steamchina.com @maybe_can_be_accessed_directly_inside_cn
 
 # Steam - 游戏下载(中国区)[腾讯云]
-full:cdn-qc.content.steamchina.com @cn
+full:cdn-qc.content.steamchina.com @maybe_can_be_accessed_directly_inside_cn
 
 # Steam - 游戏下载/社区实况直播(非中国下载区)[Valve]
 full:cache10-atl3.steamcontent.com

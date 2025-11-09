@@ -24,7 +24,7 @@ intel.cg
 intel.ch
 intel.cl
 intel.cm
-intel.cn @cn
+intel.cn @maybe_can_be_accessed_directly_inside_cn
 intel.co
 intel.co.ae
 intel.co.cr

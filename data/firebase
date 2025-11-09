@@ -3,7 +3,7 @@ firebase.io
 firebaseapp.com
 firebaseio.com
 
-full:firebase-settings.crashlytics.com @cn
+full:firebase-settings.crashlytics.com @maybe_can_be_accessed_directly_inside_cn
 full:firebase.google.com
 full:firebase.googleapis.com
 full:firebaseappcheck.googleapis.com
