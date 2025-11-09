@@ -13,15 +13,15 @@ If an App doesn’t handle `@cn` with great care and instead treats it the same 
 change all `@cn` to `@maybe_can_access_directly_inside_cn`
 
 
-## How to use the bugfix version
+## How to use this bugfix version
 
-Method 1 : Need not change your App's source code, The steps for creating the dlc.dat file remain unchanged (which is same as original version) and list as below. The cost is a negligible performance drop for a 100 Mbps broadband connection.
+- Method 1 : Need not change your App's source code, The steps for creating the dlc.dat file remain unchanged (which is same as original version) and list as below. The cost is a negligible performance drop for a 100 Mbps broadband connection.
 
-Method 2 : In your App's source code, precisely understand and carefully handle the attribute `@maybe_can_be_accessed_directly_inside_cn`, so that your App will not be manipulated at will by GFW.
+- Method 2 : In your App's source code, precisely understand and carefully handle the attribute `@maybe_can_be_accessed_directly_inside_cn`, so that Your app won’t be at risk of being arbitrarily interfered with by GFW.
 
-# --------------------------------------------------------------------------
+# ------------------------------------------------------------
 # The working flow is same as original version, but the created dlc.dat file is different and is placed in this repository
-# --------------------------------------------------------------------------
+# ------------------------------------------------------------
 
 ## Purpose of this project
 
