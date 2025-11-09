@@ -19,6 +19,10 @@ Method 1 : Need not change your App's source code, The steps for creating the dl
 
 Method 2 : In your App's source code, precisely understand and carefully handle the attribute `@maybe_can_be_accessed_directly_inside_cn`, so that your App will not be manipulated at will by GFW.
 
+# ----------------------------------------------------------------------------------------------------------------------------------------------
+# The working flow is same as original, but the created dlc.dat file is different and place in this repository
+# ----------------------------------------------------------------------------------------------------------------------------------------------
+
 ## Purpose of this project
 
 This project is not opinionated. In other words, it does NOT endorse, claim or imply that a domain should be blocked or proxied. It can be used to generate routing rules on demand.
