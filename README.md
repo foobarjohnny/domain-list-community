@@ -6,12 +6,18 @@ Fixed a maybe catastrophic bug in the original version which 99.99999% chance of
 
 attrib `@cn` has a name that is extremely similar to data/cn, making it very easy to confuse the two.
 Its proper name should really be `@maybe_can_be_accessed_directly_inside_cn`.
-If a Client app doesn’t handle `@cn` with great care and instead treats it the same as cn, it will expose a soft spot to the GFW, leaving itself vulnerable to being manipulated at will by GFW.
+If a App doesn’t handle `@cn` with great care and instead treats it the same as cn, it will expose a soft spot to the GFW, leaving itself vulnerable to being manipulated at will by GFW.
 
 ## How to fix the bug
 
 change all `@cn` to `@maybe_can_access_directly_inside_cn`
 
+
+## How to use the bugfix version
+
+Method 1 : Need not change your App code, The steps for creating the dlc.dat file remain unchanged (which is same as original version) and list as below. The cost is a negligible performance drop for a 100 Mbps broadband connection.
+
+Method 2 : In your App code, precisely understand and carefully handle the attribute `@maybe_can_be_accessed_directly_inside_cn`, so that your App will not be manipulated at will by GFW.
 
 ## Purpose of this project
 
