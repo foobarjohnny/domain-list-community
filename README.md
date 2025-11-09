@@ -10,7 +10,7 @@ If an App doesn’t handle `@cn` with great care and instead treats it the same 
 
 ## How to fix the bug
 
-change all `@cn` to `@maybe_can_access_directly_inside_cn`
+change all `@cn` to `@maybe_can_be_accessed_directly_inside_cn`
 
 
 ## How to use this bugfix version
