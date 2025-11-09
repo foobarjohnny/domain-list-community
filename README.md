@@ -1,6 +1,17 @@
 # Domain list community (maybe bug fix version)
 
-This project manages a list of domains, to be used as geosites for routing purpose in Project V.
+Fixed a maybe catastrophic bug in the original version which 99.99999% chance of tripping people up, yet the original developers refused to fix it.
+
+## What's the bug
+
+attrib `@cn` has a name that is extremely similar to data/cn, making it very easy to confuse the two.
+Its proper name should really be `@maybe_can_be_accessed_directly_inside_cn`.
+If a Client app doesn’t handle `@cn` with great care and instead treats it the same as cn, it will expose a soft spot to the GFW, leaving itself vulnerable to being manipulated at will by GFW.
+
+## How fix the bug
+
+change all `@cn` to `@maybe_can_access_directly_inside_cn`
+
 
 ## Purpose of this project
 
@@ -127,6 +138,7 @@ Theoretically any string can be used as the name, as long as it is a valid file 
 ### Attributes
 
 Attribute is useful for sub-group of domains, especially for filtering purpose. For example, the list of `google` domains may contains its main domains, as well as domains that serve ads. The ads domains may be marked by attribute `@ads`, and can be used as `geosite:google@ads` in V2Ray routing.
+
 
 ## Contribution guideline
 
