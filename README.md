@@ -8,7 +8,7 @@ attrib `@cn` has a name that is extremely similar to data/cn, making it very eas
 Its proper name should really be `@maybe_can_be_accessed_directly_inside_cn`.
 If a Client app doesn’t handle `@cn` with great care and instead treats it the same as cn, it will expose a soft spot to the GFW, leaving itself vulnerable to being manipulated at will by GFW.
 
-## How fix the bug
+## How to fix the bug
 
 change all `@cn` to `@maybe_can_access_directly_inside_cn`
 
