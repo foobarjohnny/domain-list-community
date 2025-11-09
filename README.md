@@ -4,13 +4,13 @@ Fixed a maybe catastrophic bug in the original version which 99.99999% chance of
 
 ## What's the bug
 
-Attribute `@cn` has a name that is extremely similar to data/cn, making it very easy to confuse the two.
+Attribute `@maybe_can_be_accessed_directly_inside_cn` has a name that is extremely similar to data/cn, making it very easy to confuse the two.
 Its proper name should really be `@maybe_can_be_accessed_directly_inside_cn`.
-If an App doesn’t handle `@cn` with great care and instead treats it the same as cn, it will expose a soft spot to the GFW, leaving itself vulnerable to being manipulated at will by GFW.
+If an App doesn’t handle `@maybe_can_be_accessed_directly_inside_cn` with great care and instead treats it the same as cn, it will expose a soft spot to the GFW, leaving itself vulnerable to being manipulated at will by GFW.
 
 ## How to fix the bug
 
-change all `@cn` to `@maybe_can_access_directly_inside_cn`
+change all `@maybe_can_be_accessed_directly_inside_cn` to `@maybe_can_access_directly_inside_cn`
 
 
 ## How to use this bugfix version
